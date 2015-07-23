@@ -1,0 +1,147 @@
+1.0.5
+-----
+Added dialogs for requesting Notification Targets and Blackouts
+Updated the security model to allow restricting users to particular functions, such as Blackouts and Thresholds, but not Message Wording
+Revamped the workflow and removed the approval step
+
+1.0.4   First General Availability (GA) release!
+-------------------------------------------------
+Added several more health tests to the Misconfigured Agents report
+Updated some queries with performance enhancements
+Corrected an issue with the LDAP integration
+
+
+1.0.3b
+-------
+Added email targets to the threshold reports
+Added the stale data point report
+Added compatibility with PCM 1.6
+Changed several report names and headings
+Fixed several issues with high CPU on the Pam server agent
+Fixed issue with remote KM on win2003 servers
+
+1.0.2b
+-------
+Changed default installation path to C:\Advantis\PAM
+Updated EULA
+Corrected typos and fine-tuned the english on several reports
+Updated host selector to return all hosts if Root is selected (even those whose actual hostnames don't match PCM)
+Added LDAP integration
+
+1.0.1b
+-------
+Finalized installation package and documentation
+Corrected several typos and other minor bugs
+
+
+0.6a
+-----
+Added ODBC database support (still in progress)
+Updated structure of config file (config.php)
+Added Copyright notice
+updated ChangeSpring integration so it's not platform specific (still need to validate unix strings)
+When creating ruleset, the right application class is being mapped
+When showing rules for submission, the category is not being showed anymore. The appClass and Instance will be displayed
+Provided the capability to change polling cycle
+
+
+0.5.5a
+------
+- Cleaned the data and make it ready for a demo
+- Created a Presentation outlining the value of the tool
+- Redesigned threshold request interface to make it more intuitive
+- Displayed collector for consumer parameters
+
+
+0.5.4a
+------
+
+- Updated the agent List selection now accepts wildcards (?,*) as input (e.g. a* will return all agents that start with a)
+- Enhanced the PCM Ruleset selection dialog box 
+- Created the front end for the scheduler
+- Gave the capability to customer to add their own logo to the site
+
+
+
+0.5.3a
+-------
+- Changed the parameter description table to include the collector for each consumer. 
+- Bug Fix: The set of parameters that was displayed at the initial load when requesting changes was wrong. 
+- Updated threshold report to display default wording when message wording is not defined
+- Forced "number of cycles" column to default to "1" in the threshold request dialog
+- Added a note to the log in screen to mention that it's case sensitive
+- Enhanced the Agent selection when assigning rights to user groups
+- Enhanced the Group and Agent selection when submitting requests
+- Update The view All requests screen to sort the request by priority/date instead of priority/request id
+- Updated link names in left window (try to have 1-line per selection)
+
+
+
+0.5.2a
+-------
+- Added user rights management (Category management)
+- Added collapsible tree for selecting server group in Agent reports
+- Added input box to accept and validate a copy & pasted list of agents
+- Redesigned report selection screens (replaced radio buttons with links & moved host selection to next screen)
+- Added "Download Excel CSV" feature to Agent reports
+- Expanded logging so all changes can be tracked through the log
+- Corrected re-submit issue.  Now changes won't be resubmitted if the user clicks Refresh or Back.
+- Updated Misconfiguration report heading
+- Corrected several typos/grammar errors
+- Modified several buttons from "Submit" to "Next"
+
+0.5.1a
+-------
+- Improved performance of several reports, especially Out of Compliance report
+- Normalized Parameter Description table to prevent duplicate data
+- Added interface to manage user rights (add/delete users, user groups, etc)
+- Added debug feature (append ?debug=1 to the URL on any screen to enable debug) 
+
+
+To Do: 
+------
+
+BUG FIXES AND ENHANCEMENTS
+
+1 - Fix installer so installation paths with spaces are handled properly
+1-  Fix command types to use cmd.exe from %path% rather than c:\winnt\system32 (needed for Win2003 support)
+2 - Add error checking around data entered by users (i.e. can't have a comma in a group name)
+3 - Finalize the e-mail process for approver/requester and user creation
+3 - Refine the error checking in the conversion program
+4 - Enhance OOC report to properly handle MERGE/APPEND/DELETE rules and PCM "local" rules, rather than just ignoring them
+4 - In change request dialog's target selection, preselect the same host that was selected as the template 
+
+NEW FEATURES
+
+1 - Convert to ODBC for all database access
+2 - Rules By Agent report (i.e. rules that will apply to an agent if it gets added to ORACLE) 
+2 - Blackout dialog
+2 - Automated Agent: build a scheduler
+2 - Automated Agent: Design/implement smart agent
+3 - Patrol Reporting integration
+3 - LDAP integration
+3 - KM integrations for popular KMs (oracle, unix, windows)
+4 - Fancy DHTML to hide/sort column in report
+4 - Alarm Point integration
+4 - RT Cloud integration
+4 - Remedy integration
+
+
+
+Done:
+-----------------------
+
+BUG FIXES
+
+
+1 - PCM 1.6 compatibility
+1 - Fix command-type issue with %ComSpec% differences
+- Fix hilighting color on Schedule Changes screen to be CSS-compliant
+- Fix indentation in some reports
+- Add a summary at the beginning of each report (i.e. 80% host compliant, 20% misssing data)
+- Creating packaging and an install procedure
+- Change the color fonts to make it BMC compatible
+
+NEW FEATURES
+
+- Merge Threshold and Message Wording change requests into a seamless process

@@ -1,0 +1,178 @@
+!PATROLV3.5.50.3i A2CA732B1BDBA2B3EEE15830AAA614B1
+!#MSG_DOMAIN	km_sec
+!++
+!
+! PATROL Session Knowledge Module
+!
+!--
+
+
+VERSION 1.14
+
+APPLICATIONS = { 
+  { NAME = "PAM_GET_CONFIG",
+	ACTIVE = True,
+	SECURITY = False,
+	PROPAGATE_STATE = True,
+	CREATE_ICON = False,
+	SUSPEND_GLOBAL_PARAMS = False,
+	DISCOVERY_TIME = 3594,
+	DISCOVERY = PSL,
+	PRE_DISCOVERY_TEXT =  1107364483 "set (\"active\", 2);\
+exit;",
+	DISCOVERY_TEXT =  1107364483 "requires advantis_lib;\
+generic_discovery();\
+exit;",
+	OK_PICTURE = "application_ok.bmp",
+	WRONG_PICTURE = "application_warn.bmp",
+	COMMANDS = {
+		{ NAME = "Toggle Debug", AVAILABILITY = AVAILABLE_ALWAYS,
+		  SUBMENU = {
+			{ NAME = "ON", AVAILABILITY = AVAILABLE_ALWAYS, SECURITY = SECURITY_INHERIT,
+				BASE_COMMAND = { 
+				{ COMPUTER_TYPE = "ALL_COMPUTERS", COMMAND_TYPE = "PSL",
+				  COMMAND_TEXT =  1107373157 "requires advantis_lib;\
+toggle_debug(\"ON\");\
+exit;"}
+				}
+			},
+			{ NAME = "OFF", AVAILABILITY = AVAILABLE_ALWAYS, SECURITY = SECURITY_INHERIT,
+				BASE_COMMAND = { 
+				{ COMPUTER_TYPE = "ALL_COMPUTERS", COMMAND_TYPE = "PSL",
+				  COMMAND_TEXT =  1107373187 "requires advantis_lib;\
+toggle_debug (\"OFF\");\
+exit;"}
+				}
+			}
+		  }
+		},
+		{ NAME = "Load Balancing", AVAILABILITY = AVAILABLE_ALWAYS,
+		  SUBMENU = {
+			{ NAME = "ENABLE", AVAILABILITY = AVAILABLE_ALWAYS, SECURITY = SECURITY_INHERIT,
+				BASE_COMMAND = { 
+				{ COMPUTER_TYPE = "ALL_COMPUTERS", COMMAND_TYPE = "PSL",
+				  COMMAND_TEXT =  1112971678 "requires pam_get_config_lib;\
+load_balance_cmd(\"ON\");\
+exit;"}
+				}
+			},
+			{ NAME = "DISABLE", AVAILABILITY = AVAILABLE_ALWAYS, SECURITY = SECURITY_INHERIT,
+				BASE_COMMAND = { 
+				{ COMPUTER_TYPE = "ALL_COMPUTERS", COMMAND_TYPE = "PSL",
+				  COMMAND_TEXT =  1112971687 "requires pam_get_config_lib;\
+load_balance_cmd(\"OFF\");\
+exit;"}
+				}
+			}
+		  }
+		},
+		{ NAME = "Define_Destination_Server", AVAILABILITY = AVAILABLE_ALWAYS, SECURITY = SECURITY_INHERIT,
+				BASE_COMMAND = { 
+				{ COMPUTER_TYPE = "ALL_COMPUTERS", COMMAND_TYPE = "PSL",
+				  COMMAND_TEXT =  1112971665 "requires pam_get_config_lib;\
+define_destination_server_cmd();\
+exit;"}
+				}
+		}
+
+	},
+	PARAMETERS = {
+		{	NAME = "kmVersionItems", PARAM_TYPE = CONSUMER, ACTIVE = True, MONITOR = True, CHECK = False,
+				BASE_COMMAND = { 
+				{ COMPUTER_TYPE = "ALL_COMPUTERS", COMMAND_TYPE = "OS",
+				  COMMAND_TEXT =  1112970349 "exit;"}
+				},
+			TITLE = "Number of KMs Loaded", UNITS = "Number of KMs Loaded",
+			HISTORY_TIME = "600", HISTORY_SPAN = 0, HISTORY_LEVEL = False,
+			FORMAT = "%f", OUTPUT = OUTPUT_GRAPH,
+			AUTO_RESCALE = True, Y_AXIS_MIN = 0, Y_AXIS_MAX = 100,
+			RANGES = {
+			  { NAME = "BORDER", ACTIVE = False, MINIMUM = 0, MAXIMUM = 100, STATE = OK, ALARM_WHEN = ALARM_INSTANT, ALARM_WHEN_N = 0
+			  },
+			  { NAME = "ALARM1", ACTIVE = False, MINIMUM = 0, MAXIMUM = 100, STATE = OK, ALARM_WHEN = ALARM_INSTANT, ALARM_WHEN_N = 0
+			  },
+			  { NAME = "ALARM2", ACTIVE = False, MINIMUM = 100, MAXIMUM = 100, STATE = OK, ALARM_WHEN = ALARM_INSTANT, ALARM_WHEN_N = 0
+			  }
+			}
+		},
+		{	NAME = "thresholdItems", PARAM_TYPE = CONSUMER, ACTIVE = True, MONITOR = True, CHECK = False,
+				BASE_COMMAND = { 
+				{ COMPUTER_TYPE = "ALL_COMPUTERS", COMMAND_TYPE = "OS",
+				  COMMAND_TEXT =  1112969891 "exit;"}
+				},
+			TITLE = "Number of Parameters", UNITS = "Number of Parameters",
+			HISTORY_TIME = "600", HISTORY_SPAN = 0, HISTORY_LEVEL = False,
+			FORMAT = "%f", OUTPUT = OUTPUT_GRAPH,
+			AUTO_RESCALE = True, Y_AXIS_MIN = 0, Y_AXIS_MAX = 100,
+			RANGES = {
+			  { NAME = "BORDER", ACTIVE = False, MINIMUM = 0, MAXIMUM = 100, STATE = OK, ALARM_WHEN = ALARM_INSTANT, ALARM_WHEN_N = 0
+			  },
+			  { NAME = "ALARM1", ACTIVE = False, MINIMUM = 0, MAXIMUM = 100, STATE = OK, ALARM_WHEN = ALARM_INSTANT, ALARM_WHEN_N = 0
+			  },
+			  { NAME = "ALARM2", ACTIVE = False, MINIMUM = 100, MAXIMUM = 100, STATE = OK, ALARM_WHEN = ALARM_INSTANT, ALARM_WHEN_N = 0
+			  }
+			}
+		},
+		{	NAME = "pconfigItems", PARAM_TYPE = CONSUMER, ACTIVE = True, MONITOR = True, CHECK = False,
+				BASE_COMMAND = { 
+				{ COMPUTER_TYPE = "ALL_COMPUTERS", COMMAND_TYPE = "OS",
+				  COMMAND_TEXT =  1112968620 "exit;"}
+				},
+			TITLE = "Number of Pconfig variables", UNITS = "Number of Pconfig variables",
+			HISTORY_TIME = "600", HISTORY_SPAN = 0, HISTORY_LEVEL = False,
+			FORMAT = "%f", OUTPUT = OUTPUT_GRAPH,
+			AUTO_RESCALE = True, Y_AXIS_MIN = 0, Y_AXIS_MAX = 100,
+			RANGES = {
+			  { NAME = "BORDER", ACTIVE = False, MINIMUM = 0, MAXIMUM = 100, STATE = OK, ALARM_WHEN = ALARM_INSTANT, ALARM_WHEN_N = 0
+			  },
+			  { NAME = "ALARM1", ACTIVE = False, MINIMUM = 0, MAXIMUM = 100, STATE = OK, ALARM_WHEN = ALARM_INSTANT, ALARM_WHEN_N = 0
+			  },
+			  { NAME = "ALARM2", ACTIVE = False, MINIMUM = 100, MAXIMUM = 100, STATE = OK, ALARM_WHEN = ALARM_INSTANT, ALARM_WHEN_N = 0
+			  }
+			}
+		},
+		{	NAME = "GCRunTime", PARAM_TYPE = CONSUMER, ACTIVE = True, MONITOR = True, CHECK = False,
+				BASE_COMMAND = { 
+				{ COMPUTER_TYPE = "ALL_COMPUTERS", COMMAND_TYPE = "OS",
+				  COMMAND_TEXT =  1112973483 "exit;"}
+				},
+			TITLE = "Execution time to gather configuration data", UNITS = "Seconds",
+			HISTORY_TIME = "600", HISTORY_SPAN = 0, HISTORY_LEVEL = False,
+			FORMAT = "%f", OUTPUT = OUTPUT_GRAPH,
+			AUTO_RESCALE = True, Y_AXIS_MIN = 0, Y_AXIS_MAX = 100000,
+			RANGES = {
+			  { NAME = "BORDER", ACTIVE = False, MINIMUM = 0, MAXIMUM = 100, STATE = OK, ALARM_WHEN = ALARM_INSTANT, ALARM_WHEN_N = 0
+			  },
+			  { NAME = "ALARM1", ACTIVE = False, MINIMUM = 100, MAXIMUM = 1000, STATE = WARN, ALARM_WHEN = ALARM_INSTANT, ALARM_WHEN_N = 0
+			  },
+			  { NAME = "ALARM2", ACTIVE = False, MINIMUM = 1000, MAXIMUM = 100000, STATE = ALARM, ALARM_WHEN = ALARM_INSTANT, ALARM_WHEN_N = 0
+			  }
+			}
+		},
+		{	NAME = "GatherConfig", PARAM_TYPE = STANDARD, ACTIVE = True, MONITOR = True, CHECK = False,
+				BASE_COMMAND = { 
+				{ COMPUTER_TYPE = "ALL_COMPUTERS", COMMAND_TYPE = "PSL",
+				  COMMAND_TEXT =  1112967808 "requires pam_get_config_lib;\
+advantis_gather_config_coll();\
+exit;"}
+				},
+			START = "ASAP",
+			POLL_TIME = "25200", EXTERNAL_POLLING = False,
+			TITLE = "Status of configuration gathering", UNITS = "0- Successful transmission 1- Destination server not defined 2- File send error ",
+			HISTORY_TIME = "25200", HISTORY_SPAN = 0, HISTORY_LEVEL = False,
+			FORMAT = "%f", OUTPUT = OUTPUT_GRAPH,
+			AUTO_RESCALE = True, Y_AXIS_MIN = 0, Y_AXIS_MAX = 100,
+			RANGES = {
+			  { NAME = "BORDER", ACTIVE = False, MINIMUM = 0, MAXIMUM = 100, STATE = OK, ALARM_WHEN = ALARM_INSTANT, ALARM_WHEN_N = 0
+			  },
+			  { NAME = "ALARM1", ACTIVE = False, MINIMUM = 0, MAXIMUM = 100, STATE = OK, ALARM_WHEN = ALARM_INSTANT, ALARM_WHEN_N = 0
+			  },
+			  { NAME = "ALARM2", ACTIVE = False, MINIMUM = 100, MAXIMUM = 100, STATE = OK, ALARM_WHEN = ALARM_INSTANT, ALARM_WHEN_N = 0
+			  }
+			}
+		}
+
+	}
+  }
+}
+!29620

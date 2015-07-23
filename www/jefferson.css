@@ -1,0 +1,560 @@
+<?php
+
+/*******************************************************************************
+ *  PATROL Agent Manager
+ *
+ *  Styles and Colors
+ *
+ *  Copyright © 2005 Advantis Management Solutions, Inc. All rights reserved.
+ ********************************************************************************/
+
+
+	// Define colors
+
+	#$advBlack 	= "#333";
+	#$advBlue 	= "#069";
+	
+	$advBlack 	= "#346";
+	$advSilver 	= "#CCC";
+	$advBlue 	= "#2A385A";
+	$advBlue 	= "#457";	
+	$advGray 	= "#E4E4E4";
+	$advWhite 	= "#FFF";
+	$advLinks	= "#8AE";
+
+
+?>
+
+<style type="text/css">
+
+*.pconfig, *.pconfig TD, *.pconfig TH    {
+	font-family: sans-serif;
+	font-size: x-small;
+}
+
+*.pconfig-white,    {
+	font-family: sans-serif;
+	font-size: x-small;
+	background-color: <?php print "$advWhite"; ?>;
+}
+
+*.collapse,   {
+	visibility: collapse;
+}
+
+*.pconfig-gray, *.pconfig-gray TD, *.pconfig-gray TH    {
+	font-family: sans-serif;
+	font-size: x-small;
+	background-color: <?php print "$advSilver"; ?>;
+}
+
+	A:link {
+	   font-weight : bold;
+	   text-decoration : none;
+	   color:<?php print "$advLinks"; ?>;
+	   }
+	A:visited {
+	   font-weight : bold;
+	   text-decoration : none;
+	   color:<?php print "$advLinks"; ?>;
+	   }
+	A:hover {
+	   color:<?php print "$advLinks"; ?>;
+	   text-decoration : underline;
+       	   }
+	*.report A:link {
+	   font-weight : bold;
+	   text-decoration : none;
+	   color:<?php print "$advBlack"; ?>;
+	   }
+	*.report A:visited {
+	   font-weight : bold;
+	   text-decoration : none;
+	   color:<?php print "$advBlack"; ?>;
+	   }
+	*.report A:hover {
+	   color:<?php print "$advBlack"; ?>;
+	   text-decoration : underline;
+       	   }
+	body {
+		margin:0px 0px 0px 0px;
+		font-family:arial,helvetica,sans-serif;
+		padding:0px;
+		background-color:<?php print "$advBlue"; ?>;
+		}
+
+	#leftcontent {
+		position: relative;
+		top:0px;
+		width:190px;
+		background:<?php print "$advBlue"; ?>;
+		color:<?php print "$advWhite"; ?>;
+		border:0px solid <?php print "$advWhite"; ?>;
+		font-size:80%;
+		}
+	#leftcontent h1 {
+		font-size:larger;
+		}
+
+	p,h1,pre {
+		margin:10px 10px 10px 10px;
+		}
+
+	h1 {
+		font-size:14px;
+		padding-top:10px;
+		}
+
+	h2 	{
+		padding-top:10px;
+		color:<?php print "$advBlue"; ?>;
+		font-size:large;
+		}
+	
+	h3 	{
+		padding-top:10px;
+		color:<?php print "$advBlue"; ?>;
+		font-size:110%;
+		}
+
+	h4 	{
+		padding-top:10px;
+		color:<?php print "$advBlue"; ?>;
+		font-size:80%;
+		}
+		
+	p.it {
+		font-style:italic;
+		}
+
+	p.bold {
+		font-weight:bold;
+		}
+		
+        p.silver {
+                color: <?php print "$advSilver"; ?>;
+                }
+
+	body.report {
+		background:<?php print "$advGray"; ?>;
+		}
+		
+	td,th,table.report {
+		border-spacing:0;
+		border-width:1px 1px 0px 0px;
+		border-style:solid;
+		border-color:<?php print "$advBlack"; ?>;
+		margin:0 0 0 0;
+		}
+	th.report {
+		font-style:bold;
+		border-width:0px 0px 1px 1px;
+		border-style:solid;
+		border-color:<?php print "$advBlack"; ?>;
+		margin:0 0 0 0;
+		width:50%;
+		}
+	td.report {
+		background-color:<?php print "$advGray"; ?>;
+		border-width:0px 0px 1px 1px;
+		border-style:solid;
+		border-color:<?php print "$advBlack"; ?>;
+		}
+
+	#centercontent {
+		position:relative;
+		top:1px;
+		background:<?php print "$advGray"; ?>;
+  		margin-left: 200px;
+		border:0px solid <?php print "$advWhite"; ?>;
+		/*
+		IE5x PC mis-implements the box model. Because of that we sometimes have
+		to perform a little CSS trickery to get pixel-perfect display across browsers.
+		The following bit of code was proposed by Tantek Celik, and it preys upon a CSS
+		parsing bug in IE5x PC that will prematurly close a style rule when it runs
+		into the string "\"}\"". After that string appears in a rule, then, we can override
+		previously set attribute values and only browsers without the parse bug will
+		recognize the new values. So any of the name-value pairs above this comment
+		that we need to override for browsers with correct box-model implementations
+		will be listed below.
+
+		We use the voice-family property because it is likely to be used very infrequently,
+		and where it is used it will be set on the body tag. So the second voice-family value
+		of "inherit" will override our bogus "\"}\"" value and allow the proper value to
+		cascade down from the body tag.
+
+		The style rule immediately following this rule offers another chance for CSS2
+		aware browsers to pick up the values meant for correct box-model implementations.
+		It uses a CSS2 selector that will be ignored by IE5x PC.
+
+		Read more at http://www.glish.com/css/hacks.asp
+		*/
+
+		voice-family: "\"}\"";
+		voice-family: inherit;
+   		margin-left: 201px;
+   		margin-right:201px;
+   		top:-46.8em;
+
+		}
+	html>body #centercontent {
+   		margin-left: 193px;
+   		margin-right:201px;
+		}
+
+	#centercontent h1 {
+		color:<?php print "$advBlue"; ?>;
+		font-size:large;
+		}
+	#centercontent h2{
+		color:<?php print "$advBlue"; ?>;
+		font-size:large;
+		}
+	#centercontent.main{
+   		margin-right:1px;
+   		padding-left:5em;
+		font-size:x-small;
+		}
+		
+	#centercontent A:link {
+	   font-weight : bold;
+	   text-decoration : none;
+	   color:black;
+	   }
+	#centercontent A:visited {
+	   font-weight : bold;
+	   text-decoration : none;
+	   color:black;
+	   }
+	#centercontent A:hover {
+	   color:black;
+	   text-decoration : underline;
+       	   }
+	
+		
+	#container{
+		position:relative;
+		width:200px;
+		display:block;
+	}
+	#container.right{
+		left:1px;
+		float:left;
+		display:block;
+		}
+		
+	#container.left{
+		right:1px;
+		float:left;
+		}
+	#rightcontent {
+		position: absolute;
+		right:10px;
+		top:50px;
+		width:200px;
+		background:<?php print "$advWhite"; ?>;
+		border:1px solid #000;
+		}
+
+	.banner {
+		position: relative;
+		height:59px;
+		font-family:serif;
+		width:100%;
+		background:<?php print "$advWhite"; ?>;
+		margin:0px 0px 0px 0px;
+		voice-family: "\"}\"";
+		voice-family: inherit;
+		height:39px;
+		}
+	html>body #banner {
+		height:59px;
+		}
+	.bannersilver {
+		width:100%;
+		background:<?php print "$advSilver"; ?>;
+		border:0px solid #000;
+		height:8px;
+		}
+	.bannerblue {
+		width:100%;
+		background:<?php print "$advBlue"; ?>;
+		border:0px solid #000;
+		height:5px;
+		}
+	.bannerwhite {
+		width:100%;
+		background:<?php print "$advWhite"; ?>;
+		height:2px;
+		border:0px solid #000;
+		width:100%;
+		}
+
+	.bannerlogout {
+		position: absolute;
+		top:1px;
+		width:80px;
+		height:10pt;
+		left:95%;
+		font-size:80%;
+		}
+
+
+	.banner h1 {
+		font-size:x-large;
+		color:<?php print "$advBlue"; ?>;
+		padding:10px 10px 0px 10px;
+		margin:0px;
+		}
+		
+	.banner A:link {
+  	        font-weight : bold;
+	        text-decoration : none;
+	        color:<?php print "$advBlack"; ?>;
+	        }
+	.banner A:visited {
+	        font-weight : bold;
+	        text-decoration : none;
+	        color:<?php print "$advBlack"; ?>;
+	        }
+	.banner A:hover {
+	        text-decoration : underline;
+	        color:<?php print "$advBlack"; ?>;
+       	        }
+
+	.bannerlogout A:link {
+  	        font-weight : bold;
+	        text-decoration : none;
+	        color:<?php print "$advBlack"; ?>;
+	        }
+	.bannerlogout A:visited {
+	        font-weight : bold;
+	        text-decoration : none;
+	        color:<?php print "$advBlack"; ?>;
+	        }
+	.bannerlogout A:hover {
+	        text-decoration : underline;
+	        color:<?php print "$advBlack"; ?>;
+       	        }
+
+	#rightcontent p {
+		font-size:10px
+		}
+
+	fieldset
+		{
+		background: <?php print "$advSilver"; ?>;
+		border: <?php print "$advBlue"; ?> solid 1px;
+		margin-bottom:10px;
+		width:85%;
+		}
+
+	fieldset.login
+		{
+		border: <?php print "$advBlue"; ?> solid 1px;
+		width: 40em;
+		}
+	
+	legend
+		{
+		background-color:<?php print "$advWhite"; ?>;
+		border: <?php print "$advBlue"; ?> solid 1px;
+		padding: 0px 5px;
+		font-size:small;
+		}
+
+	label
+		{
+		width: 6em;
+		float: left;
+		text-align: right;
+		margin: 0 1em 1em 0;
+		clear: both
+		}
+	label.menu
+		{
+		width: 20em;
+		text-align: left;
+		}
+		
+	select {
+		background-color:<?php print "$advGray"; ?>;
+		border:<?php print "$advBlue"; ?> solid 1px;
+		color:<?php print "$advBlack"; ?>;
+		}
+	select.groups 
+		{
+		width:15em;
+		}
+	select.groupsmed
+		{
+		width:20em;
+		}
+
+	select.groupswide
+		{
+		width:40em;
+		}
+
+	input
+		{
+		background-color:<?php print "$advGray"; ?>;
+		margin-bottom: 10px;
+		border:<?php print "$advBlue"; ?> solid 0px;
+		color:<?php print "$advBlack"; ?>;
+		}
+
+	input.input-box
+		{
+		border:<?php print "$advBlue"; ?> solid 2px;
+		width:75%;
+		}
+
+	input.input-box2
+		{
+		border:<?php print "$advBlue"; ?> solid 1px;
+		width:75%;
+		}
+
+	input.time
+		{
+		border:<?php print "$advBlue"; ?> solid 1px;
+		width:5%;
+		}
+
+	input.username-box
+		{
+		border:<?php print "$advBlue"; ?> solid 2px;
+		width:15em;
+		}
+
+	input.requestid-box
+		{
+		border:<?php print "$advBlue"; ?> solid 1px;
+		width:10em;
+		}
+
+	input.checkbox
+		{
+		border:<?php print "$advBlue"; ?> solid 0px;
+		vertical-align:top;
+		background-color: <?php print "$advSilver"; ?>;
+		}
+
+	.submit-button
+		{
+		margin-top: 10px;
+		margin-left: 1em;
+		clear: both
+		background-color: <?php print "$advSilver"; ?>;
+		color:<?php print "$advBlack"; ?>;
+		border:<?php print "$advBlue"; ?> solid 2px;
+		font-size:small;
+		}
+		
+	.submit-button2
+		{
+		margin-top: 10px;
+		margin-left: 8em;
+		clear: both
+		background-color: <?php print "$advSilver"; ?>;
+		color:<?php print "$advBlack"; ?>;
+		border:<?php print "$advBlue"; ?> solid 1px;
+		font-size:small;
+		}
+
+	.submit-button3
+		{
+		margin-top: 10px;
+		margin-left: 1em;
+		clear: both
+		background-color: <?php print "$advSilver"; ?>;
+		color:<?php print "$advBlack"; ?>;
+		border:<?php print "$advBlue"; ?> solid 1px;
+		font-size:small;
+		}
+
+	.little-button
+		{
+		background-color: <?php print "$advSilver"; ?>;
+		color:<?php print "$advBlack"; ?>;
+		border:<?php print "$advBlue"; ?> solid 1px;
+		font-size:small;
+		}
+
+	table.menu,tr.menu,td.menu,th.menu
+		{
+		border:0px;
+		}
+		
+	table.menu2,tr.menu2,td.menu2,th.menu2
+		{
+		border:0px;
+		margin-left:2em;
+		}
+
+	td.t1 
+		{
+		vertical-align:text-top;
+		text-align:center;
+		font-size:150%;
+		border:0px;
+		width:9em;
+		}
+	 
+	td.t2 
+		{
+		vertical-align:text-top;
+		text-align:center;
+		font-size:150%;
+		border:0px;
+		width:6em;
+		}
+
+	td.t3 
+		{
+		vertical-align:text-top;
+		text-align:center;
+		font-size:150%;
+		border:0px;
+		width:4em;
+		}
+
+	table,td,th
+		{
+		border-spacing:0;
+		border:1px solid <?php print "$advBlack"; ?>;
+		border-collapse:collapse;
+		margin:0 0 0 0;
+		}
+	
+	textarea
+		{
+		background-color:<?php print "$advGray"; ?>;
+		width:60%;
+		}
+		
+	iframe
+		{
+		background-color:<?php print "$advGray"; ?>;
+		width:60%;
+		}
+	fieldset
+		{
+		padding-left:1em;
+		padding-right:1em;
+		padding-top:0em;
+		padding-bottom:1em;
+		}
+	fieldset.inset-light
+		{
+		background-color:<?php print "$advGray"; ?>;
+		margin:2em;
+		}
+		
+	.inset
+		{
+		margin:2em;
+		}
+	
+</style>

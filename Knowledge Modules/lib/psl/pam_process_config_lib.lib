@@ -1,0 +1,899 @@
+@4Vx ¡¡  ¢­<main module>    ¬advantis_lib¡  ¡Ë$^@¿&€^@À+¢À+&€À,¥À,&€À-¡À-&€À.¤À.&€¢À/!^@£À/¤ªÀ1ª²À1'€^@¥À2'¡À2 À2—¨À2¶À3'€^@¥À5'¡À5 	À5—¨À5'€¨
+À8U©À8'€^@À9'¬ À9—«À9'€©«À9,€À9&€©À:)€À:'€¨À= À=–¨À='€^@À?'­®À?'¯À?&¨À?—¦À?&€¦À@#§À@§^@ªÀBªÀ-ÀB/°°ÀCÀ0ÀD'€^@°ÀF'§ÀF—°ÀF£À4ÀI/§ªÀJ'€¢ªÀJ!€ÀJ"§ÀM%^@ÀN$ÀV&€À^^´À^^&€^@À_±À_&€±À`!^@³À`´¶Àb¶ÀBÀb'€Àc&·ÀcÀDÀd'€Àf&·Àf·^@¶Ài'€·Ài¸Ài¸¹Ài¶¹ºÀiºÀ]Ài'€·ÀkW­Àk'€·ÀlW®Àl/±»Àm/»¼Àm&€¼Àm!¯Àm/±»Àn/»¼Àn&€¼Àn!¬Àn¯^@»Àp»ÀYÀp¯Àq¬^@»Àt»ÀtÀt¬ÀuÀtÀx³ÀqÀy´»Àz»ÀjÀz'€±€À{ !À{¼À{/ ¼½À{/½"¾À{ ¾À{!€À{'€$À€€À€.À'€±€À} !À}¼À}/ ¼½À}/½#¾À} ¾À}!¿À}'€$À€€À€.À&€%À†!^@µÀ†'€&µÀ‡ 'À‡¶À‡¶À‚À‡³ÀÀˆ/(­¸À‰/¸)¹À‰'€±¹À‰!€À‰'€$À‹€À‹.ÀŒ³À…À'€±*À!€À#À“%À“$Àœ&€^@À£À!À£&€À!À¤!^@À À¤À#À§À#Àª/À!À%À«/À%,À&À«&€À&À«!À"À«À"ÀÀ¬À ÀšÀ­'€À!€À® -À®À%À®/À%.À&À® À&À®!€À®&€/À°R€À°À#+À$À¨À$ÀÀ¨#À¶%À¶$À¾&€ÀËÀ0ÀË&€ÀÌÀ+ÀÌ&€ÀÍÀ/ÀÍ&€^@ÀÎÀ,ÀÎ&€À,ÀÏ!^@À.ÀÏ&€€ÀĞÀ3ÀĞ&À30ÀĞÀ2ÀĞÀ.À³ÀÒ/1À(À3ÀÓ'€À,À3ÀÓ!€ÀÓÀ(2À3ÀÖÀ3À»ÀÖ'€À'ÀØ 3ÀØ–À'ÀØ'€À'4ÀÙ 5ÀÙ–À'ÀÙ/À(6À3Àİ'€À'À3Àİ ^@Àİ–À'Àİ'€À'6ÀŞ 7ÀŞ–À'ÀŞ'€À'8Àß À2Àß–À'ÀßÀ/À3ÀáÀ3ÀÑÀá'€^@À0Àâ'À+Àâ'9À(:Àâ—À)Àâ'€^@;Àã'À0Àã'À+9À(Àã :Àã—À1ÀãÀÚÀä'€^@À0Àå'À+Àå'<À(:Àå—À)Àå'€^@=Àæ'À0Àæ'À+<À(Àæ :Àæ—À1Àæ'€À)
+ÀéUÀ*Àé'€À*À'Àê,€Àê&€À*Àë)€Àë'€À)Àì Àì–À)Àì'€^@>Àï'À)?À(Àï @Àï—À-ÀïÀ.ÀëÀñ/AÀ-À3Àò'€À,À3Àò!€Àò&€À-Àõ!^@€ÀõÀ.À3ÀøÀ3ÀñÀø&€À1Àù#€Àù#Àû%Àû$Á&€^@Á	À6Á	&€À6Á
+!^@À5Á
+À5ÀüÁ/BÀ4À8Á'€À6À8Á!€Á/CÀ4À8Á/À8À7Á/°D°Á&€À7Á!^@€Á#Á%Á$Á&€^@Á'À;Á'&€À;Á(!^@À:Á(&€Á)À<Á)À<À?Á+À?ÁÁ+/EÀ9À>Á,ÁÁ-/FÀ9À>Á/&€À>Á1#À=Á1'€GÀ=Á2À=Á2À:ÁÁ4'€À;€Á5 À=Á5À?Á5/HÀ?À@Á5 À@Á5!€Á5"À=Á7%Á8$Á@&€IÂo!^@€Âo#Âq%Âq$Ây&€JÂÑ!^@€ÂÑ#ÂÓ%ÂÓ$ÂÜ&€KÃ[!^@€Ã[#Ã]%Ã]$	Ãe&€LÃš!^@€Ãš#Ãœ%	Ãœ$
+Ã¥&€MÄ!^@€Ä#Ä%
+Ä$Ä&€NÄ0!^@€Ä0#Ä2%Ä2$Ä:&€^@ÄNÀJÄN&€ÄOÀLÄO&€ÄPÀMÄP&€ÀJÄQ!^@ÀIÄQ&€ÄRÀXÄRÀGÀZÄTOÀ\ÄTOÀ]ÄTÀZÁÌÄT'€ÀZÀ\ÄT À]ÄT^@À[ÄT'€À[PÄU QÄUÀ[ÄUÀXÀ^^ÄVÀ^^ÁVÄV'€^@ÀMÄW'RÀLÄW À[ÄW—ÀKÄWÁZÄX'€^@ÀMÄY'SÀLÄY À[ÄY—ÀKÄYÀIÁ^^Ä\/TÀKÀ^^Ä]'€ÀJÀ^^Ä]!€Ä]&€ÀKÄ_À^^Ä_À^^À_Ä_À_ÁiÄ_ÀIÁgÄa/UÀKÀ`Äb/À`VÀaÄb'€ÀJÀaÄb!€Äb0ÀZÁIÄTÁÌÄd&€ÀKÄfÀNÄfÀIÁrÄj'€^@WÄk'ÀKXÀHÄk YÄk—ÀaÄk'€ÀJÀaÄk!€ÄkÀXÀ^^ÄnÀ^^ÁxÄn'€^@ZÄo'ÀK[ÀHÄo—ÀYÄoÁ{Äp'€^@\Äq'ÀK[ÀHÄq—ÀYÄq&€ÀYÄt#€Ät'€À[]Äy Äy–ÀWÄy'€ÀWÄz ÄzWÀOÄz'€ÀWQÄ{ Ä{WÀPÄ{'€ÀP^^Ä| ^@Ä|–ÀPÄ|ÀIÁÄ~'€^@_Ä'ÀO`ÀPÄ Ä—ÀaÄ'€ÀJÀaÄ!€Ä'€aÀNÄƒÀUÄƒÀIÁ™Ä„'€ÀJ€Ä… ÀUÄ…À^^Ä…/bÀ^^À_Ä… À_Ä…!€Ä…'€^@°Ä‡'ÀO[ÀPÄ‡ [Ä‡—ÀaÄ‡&€ÀUÄ‡ÀbÄ‡/ÀaÀbÀcÄ‡/Àcc°Ä‡/ÀRÀUÀ^^Äˆ/À^^ÀRÄˆ'€dÀNÄ‹ÀVÄ‹ÀIÁ¬ÄŒ'€ÀJ€Ä ÀVÄÀ^^Ä/eÀ^^À_Ä À_Ä!€Ä'€^@°Ä'ÀO[ÀPÄ [Ä—ÀaÄ&€ÀVÄÀbÄ/ÀaÀbÀcÄ/Àcf°Ä/ÀSÀVÀ^^Ä/À^^ÀSÄ'€2ÀNÄ”ÀTÄ”ÀIÁ¿Ä•'€ÀJ€Ä– ÀTÄ–À^^Ä–/gÀ^^À_Ä– À_Ä–!€Ä–'€^@°Ä˜'ÀO[ÀPÄ˜ [Ä˜—ÀaÄ˜&€ÀTÄ˜ÀbÄ˜/ÀaÀbÀcÄ˜/Àch°Ä˜'€ÀTiÄ™ÀTÄ™/ÀQÀTÀ^^Äš/À^^ÀQÄš0ÀZÁIÄTÀIÁÏÄŸ'€ÀJjÄ !€Ä &€2Ä¢!€Ä¢&€aÄ£!€Ä£&€dÄ¤!€Ä¤ÀIÁØÄ§'€ÀJkÄ¨!€Ä¨'€ÀRaÄª!€Äª'€ÀSdÄ«!€Ä«'€ÀQ2Ä¬!€Ä¬#Ä®%Ä®$Ä¶&€^@ÄÄÀgÄÄ&€-ÄÅÀhÄÅ&€ÄÆÀiÄÆ&€ÄÇÀjÄÇ&€ÄÈÀoÄÈ&€ÀgÄÉ!^@ÀdÄÉ^@°ÄÌÀdÁùÄÎ/lÀhÀpÄÏ/ÀpmÀqÄÏ'€Àg€ÄÏ €ÄÏÀrÄÏ ÀrÄÏÀsÄÏ/ÀqÀsÀtÄÏ ÀtÄÏ!€ÄÏÀoÀpÄÓÀpÁÿÄÓ/ÀjRÀqÄÔ/ÀqÀiÀkÄÔ/ÀknÀlÄÕÂÄ×/ÀjSÀqÄÙ/ÀqÀiÀkÄÙ/ÀkoÀlÄÚÀdÂÄŞ/pÀkÀpÄß'€ÀgÀpÄß!€Äß&€ÀkÄáÀpÄáÀpÀqÄáÀqÂÄáÀdÂÄâ/qÀiÀrÄã'€ÀgÀrÄã!€Äã/rÀkÀmÄå&€ÀmÄæ#€Äæ&€ÀlÄéÀpÄéÀpÀqÄéÀqÂÄéÀdÂÄê/sÀiÀrÄë'€ÀgÀrÄë!€Äë/rÀlÀmÄí&€ÀmÄî#€Äî €Äñ!€Äñ €Äô!€Äô/ÀgÀpÄ÷/Àp,ÀqÄ÷'€tÀqÄ÷ Ä÷x€Ä÷ €ÄùÀeÄù&€ÀkÄı!ÀnÄı'€^@°Äş'uÀhmÄş—ÀrÄş&€€ÄşÀsÄş ÀsÄşÀtÄş/ÀrÀtÀuÄş/Àu°Äş'€v€Å^@ ÀnÅ^@ÀpÅ^@ ÀpÅ^@€Å^@ÀnÀpÅÀpÂ>ÅÀdÂ<Å'€ÀgwÅ!€Å/°x°ÅÂEÅ'€ÀnÀlÅ!€ÅÀdÂCÅ'€ÀgyÅ!€Å €Å!ÀqÅ'€^@°Å'uÀhzÅ—ÀrÅ&€€ÅÀsÅ ÀsÅÀtÅ/ÀrÀtÀuÅ/Àu°Å €ÅÀfÅÀfÀeÀpÅ'€{ÀpÅ€Å'€|^@Å °Åz€Å/ÀgÀpÅ/Àp,ÀqÅ'€tÀqÅ Åx€Å'€$Å€ÅÀdÂfÅ/lÀhÀpÅ/Àp}ÀqÅ'€Àg€Å ÀfÅÀrÅ/ÀqÀrÀsÅ ÀsÅ!€Å#Å%Å$Å'&€~Å7À€Å7&€À€Å8!^@ÀÅ8'€ÀviÅ: ^@Å:–ÀvÅ:ÀÂwÅ<'€À€€Å= ÀvÅ=À„Å=/À„À…Å= À…Å=!€Å=&€€ÅBÀ„ÅB&À„0ÅBÀ~ÅB'€Àv€ÅCÀ‚ÅCÀ‚À„ÅD'€ÀvÅD À„ÅDÀƒÅD'€ÀƒÅFÀwÅF'€‚ÀƒÅGÀxÅG'€ÀwÅIÀ„ÅIÀ„À…ÅIÀ…Â‘ÅI&€ƒÅJ!€ÅJ/À€À†ÅK/À†,À‡ÅK'€tÀ‡ÅK ÅKx€ÅK.ÅL'€ÀwÅN ^@ÅN–ÀwÅN'€ÀwPÅOÀwÅO'€Àx‚ÅQÀ„ÅQÀ„À…ÅQÀ…Â¢ÅQ&€„ÅR!€ÅR/À€À†ÅS/À†,À‡ÅS'€tÀ‡ÅS ÅSx€ÅS.ÅT'€Àx‚ÅV ^@ÅV–ÀxÅV'€ÀxPÅWÀxÅW'€ÀvÀ‚ÅX&€ÀvÅXÀ„ÅXÀ„À‚À…ÅX^@À…À†ÅX À†ÅXÀvÅX'€ÀvÅ\ [Å\–ÀvÅ\'€Àv€Å] …Å]–ÀvÅ]^@À}Å^^ÀvÀ„Å_OÀ…Å_OÀ†Å_À„Ã!Å_'€À„À…Å_ À†Å_^@À‰Å_À‰^@À‡ÅaÀ‡ÂÄÅa0À„Â¹Å_&€Å™!^@€Å™'€À}Åš!€Åš#Å›'€À‰[Åd Åd–À‰Åd'€À‰ÅeVÀyÅe'€Ày†ÅgÀ‡ÅgÀ‡ÀˆÅgÀˆÂ×Åg/‡ÀyÀŠÅh/ÀŠˆÀ‹Åh&€À‹Åh!€Åh0À„Â¹Å_&€Å™!^@€Å™'€À}Åš!€Åš#Å›'€Ày‰ÅkÀyÅk'€ŠÀ‰ÅlÀzÅl'€ÀzŠÅm ^@Åm–ÀzÅm'€ÀzÅn ‹Ån–ÀzÅn'€Àz‹Åo QÅoÀzÅo'€ÀzPÅpÀzÅp'€Àz‹Åq Åq–ÀzÅq'€ŒÀ‰ÅrÀŒÅrÀŒ^@À‡ÅsÀ‡ÂïÅsÀyÀŒÅtÂôÅu'€ÀŒŒÅw ^@Åw–ÀŒÅw'€ÀŒPÅxÀŒÅx'€À‰ÅzÀ{ÅzÀ{^@À‡Å{À‡ÂúÅ{ÀwÀ{Å|ÂÿÅ}'€À{Å ^@Å–À{Å'€À{PÅ€À{Å€'€‚À‰Å‚À|Å‚À|^@À‡ÅƒÀ‡ÃÅƒÀxÀ|Å„Ã
+Å…'€À|‚Å‡ ^@Å‡–À|Å‡'€À|PÅˆÀ|ÅˆÀz^@À‡ÅŠÀ‡ÃÅŠÀzÅ‹ÀzÀ‡ÅOÀˆÅOÀŠÅÀ‡Ã Å'€À‡ÀˆÅ ÀŠÅ^@ÀÅ'€ÀPÅÀÅÀ^@À‹ÅÀ‹ÃÅÀÅ'€^@À}Å’'Ày7À{Å’'7À7Å’'ÀŒ7À|Å’'7À~Å’—À}Å’0À‡ÃÅ0À„Â¹Å_&€Å™!^@€Å™'€À}Åš!€Åš#Å›%Å›$Å£&€ÀÅ¥0ÀÅ¥"ÀÅ¦%Å§$Å°&€~ÅÁÀ•ÅÁ&€ÅÂÀÅÂ&€À•ÅÄ!^@À–ÅÄ/À•ÀÅÅ/ÀÀŸÅÅ&€ÀŸÅÅ!ÀšÅÅÀ–Ã>ÅÇ'€À•€ÅÈ ÀÅÈÀÅÈ/‘ÀÀŸÅÈ ÀŸÅÈ!€ÅÈ&€€ÅËÀÅË&À0ÅËÀ”ÅË^@À“ÅÍ'€ÀiÅÏ ^@ÅÏ–ÀÅÏ'€ÀÅĞ [ÅĞ–ÀÅĞ'€À€ÅÑ …ÅÑ–ÀÅÑÀ˜ÅÓÀœÅÔÀÀÅÕOÀŸÅÕOÀ ÅÕÀÃåÅÕ'€ÀÀŸÅÕ À ÅÕ^@À¡ÅÕ'€À¡†ÅÖÀ¢ÅÖÀ¢ÃµÅÖÀ˜À£ÅØÀ‘^@À¤ÅØÀ£À¤À¥ÅØÀ¥Ã]ÅØÀ‘ÅÙÀ˜ÅÛÀ’^@À£ÅÜÀ£Ã¯ÅÜÀ’À¤ÅİOÀ¥ÅİOÀ§ÅİÀ¤ÃµÅİ'€À¤À¥Åİ À§Åİ^@À¦Åİ'€À¦PÅŞÀ¦ÅŞÀÀ¨ÅáÀ¨ÃsÅá'€À¦YÅâ Åâ–À¦Åâ'€^@’Åã'ÀšÀ¦Åã “Åã—À™ÅãÃyÅä'€À¦YÅæ Åæ–À¦Åæ'€^@”Åç'ÀšÀ¦Åç—À™Åç&€À™Åé#À›Åé'€•À›ÅëÀ›Åë'€À›ÀšÅì ^@Åì–À›Åì'€À›Åí YÅí–À›Åí'€À›Åî YÅî–À›Åî&€À›Åğ!À›ÅğÀ›^@À¨ÅñÀ¨Ã¢ÅñÀ›À©ÅóOÀªÅóOÀ«ÅóÀ©Ã­Åó'€À©ÀªÅó À«Åó^@À¬Åó'€À¬PÅôÀ¬Åô'€À¬YÅõ QÅõÀ¬Åõ'€^@À“Åö'À7À‘Åö'7À¬7Åö'Àœ7À”Åö Åö—À“ÅöÀœÅ÷'€ÀœÅø YÅøWÀœÅø0À©ÃÅóÃ­Åú/À¦–À¬Åü'€^@À“Åı'À7À‘Åı'7À¬7Åı'Àœ7À”Åı Åı—À“ÅıÀœÅş'€ÀœÅÿ YÅÿWÀœÅÿ0À¤ÃdÅİÃµÆ$…ÁĞÆ'€^@À“Æ'À7À‘Æ'7À’ÁĞÆ&À”Æ—À“Æ^@À’Æ'€À¡[Æ Æ–À¡Æ'€ŠÀ¡ÆÀ‘Æ'€À‘ŠÆ ^@Æ–À‘Æ'€À‘PÆÀ‘Æ'€—À¡ÆÀ—ÆÀ—À¢ÆOÀ£ÆOÀ¤ÆÀ¢Ã×Æ'€À¢À£Æ À¤Æ^@À¦Æ'€À¦PÆÀ¦ÆÀ¦^@À¥ÆÀ¥ÃÏÆ0À¢ÃÆÆÃ×Æ/À’‹À¥Æ'€€À¦Æ&˜ÆWÀ§Æ&À§PÆÀ¨Æ/À¥À¨À’Æ0À¢ÃÆÆ'€À’™Æ QÆÀ’Æ'€À’‹Æ Æ–À’ÆÀ˜ÃàÆÀÆÃäÆ'€À¡ÆVÀÆ'€ÀšÆ ÀÆ 0ÀÃRÅÕÀ˜ÀÆ%À‘^@ÀŸÆ%ÀÀŸÀ Æ%À ÃêÆ%À‘Æ&À’^@ÀÆ)ÀÄ?Æ)À’ÀŸÆ*OÀ Æ*OÀ¢Æ*ÀŸÄ:Æ*'€ÀŸÀ Æ* À¢Æ*^@À¦Æ*'€À¦PÆ+À¦Æ+ÀÀ£Æ-À£ÃÿÆ-'€À¦YÆ. Æ.–À¦Æ.'€^@’Æ/'ÀšÀ¦Æ/ “Æ/—À™Æ/ÄÆ0'€À¦YÆ2 Æ2–À¦Æ2'€^@”Æ3'ÀšÀ¦Æ3—À™Æ3&€À™Æ5#À›Æ5'€•À›Æ7À›Æ7'€À›ÀšÆ8 ^@Æ8–À›Æ8'€À›Æ9 YÆ9–À›Æ9'€À›Æ: YÆ:–À›Æ:&€À›Æ;!À›Æ;À›^@À£Æ<À£Ä.Æ<À›À¤Æ=OÀ¥Æ=OÀ§Æ=À¤Ä9Æ='€À¤À¥Æ= À§Æ=^@À¬Æ='€À¬PÆ>À¬Æ>'€À¬YÆ? QÆ?À¬Æ?'€^@À“Æ@'À7À‘Æ@'7À¬7Æ@'Àœ7À”Æ@ Æ@—À“Æ@ÀœÆA'€ÀœÆB YÆBWÀœÆB0À¤ÄÆ=Ä9ÆD/À¦–À¬ÆF'€^@À“ÆG'À7À‘ÆG'7À¬7ÆG'Àœ7À”ÆG ÆG—À“ÆGÀœÆH'€ÀœÆI YÆIWÀœÆI0ÀŸÃğÆ*&€›ÆV!^@€ÆV'€À“œÆX!€ÆX#ÆZ'€^@À“ÆO'À7À‘ÆO'7À’$…ÆO&À”ÆO—À“ÆO&€›ÆV!^@€ÆV'€À“œÆX!€ÆX#ÆZ%ÆZ$Æc&€ÆwÀ¾Æw'€À­Æz ÆzÀ­ÆzÀ¾À¿ÆÀ¿ÄkÆ'€ŸÀ­Æ€ Æ€À­Æ€'€ À­Æ ÆÀ­Æ'€¡À­Æ‚ Æ‚À­Æ‚'€¢À­Æƒ ÆƒÀ­Æƒ'€£À­Æ„ Æ„À­Æ„'€¤À­Æ… Æ…À­Æ…'€¥À­Æ† Æ†À­Æ†'€¦À­Æ‡ Æ‡À­Æ‡ÄƒÆˆ'€§À­ÆŠ ÆŠÀ­ÆŠ'€¨À­Æ‹ Æ‹À­Æ‹'€©À­ÆŒ ÆŒÀ­ÆŒ'€ªÀ­Æ ÆÀ­Æ'€«À­Æ ÆÀ­Æ'€¬À­Æ ÆÀ­Æ'€­À­Æ ÆÀ­Æ'€®À­Æ‘ Æ‘À­Æ‘'€¯À­Æ–À»Æ–'€¯À­Æ— Æ—À¼Æ—&€~Æ™À°Æ™&€À°Æš!^@À±Æš/À°À¿Æ›/À¿ÀÀÆ›&€ÀÀÆ›!À·Æ›À±Ä—Æ'€À°€Æ À»ÆÀ¿Æ/°À¿ÀÀÆ ÀÀÆ!€Æ&€€Æ¡À¿Æ¡&À¿0Æ¡À¯Æ¡^@À®Æ£À»À¿Æ¤OÀÀÆ¤OÀÁÆ¤À¿Å Æ¤'€À¿ÀÀÆ¤ ÀÁÆ¤^@À¬Æ¤'€À¬Æ§À¬Æ§À¬^@ÀÂÆ¨ÀÂÄ©Æ¨0À¿Ä Æ¤Å Æ©&€À¬Æ¬ÀÂÆ¬ÀÂÀÃÆ¬ÀÃÄ³Æ¬/±À¬ÀÄÆ®/ÀÄ²ÀÅÆ®&€ÀÅÆ®!€Æ®0À¿Ä Æ¤Å Æ¯&€À¬Æ²ÀÇÆ²'€ÀÇiÆ³ ^@Æ³–ÀÇÆ³'€À¬À·Æµ ^@Æµ–ÀµÆµ'€ÀµÆ¶ Æ¶–ÀµÆ¶'€ÀµÆ· QÆ·ÀµÆ·&€ÀµÆ¸À¸Æ¸'€ÀµÀ¸Æ¹VÀ´Æ¹'€À´PÆºÀ´ÆºÀ¸ÀÈÆ¼'€ÀÈÆ½ YÆ½WÀÈÆ½/³ÀÈÀÂÆ¾'€ÀµÀÂÆ¾ YÆ¾VÀ¶Æ¾'€À¶YÆ¿ QÆ¿À¶Æ¿'€ÀÇ´ÆÁ ÆÁVÀÇÆÁ'€ÀÇÆÂ µÆÂ–ÀÇÆÂ'€ÀÇ¶ÆÃ ·ÆÃ–ÀÇÆÃ'€ÀÇ¸ÆÄ ¹ÆÄ–ÀÇÆÄ/À¶YÀÂÆÅ/ÀÂÀ´À´ÆÅ&€ÀÇÆÆÀ½ÆÆÀÇÀÂÆÇOÀÃÆÇOÀÄÆÇÀÂÅÆÇ'€ÀÂÀÃÆÇ ÀÄÆÇ^@€ÆÇ'€ÀÇÀ½ÆÉVÀÉÆÉ	À½ÆÊ'€ÀÉºÆË QÆËÀÉÆËÀÉ^@ÀÅÆÌÀÅÄóÆÌ0ÀÂÄæÆÇÅÆÍ'€ÀÉÆÏ ˜ÆÏWÀ²ÆÏ'€À²ÆĞÀ²ÆĞ'€ÀÉÆÒ ˜ÆÒWÀºÆÒ'€Àº»ÆÓÀºÆÓ'€Àº¼ÆÔ ^@ÆÔ–ÀºÆÔ'€Àº½ÆÕ ^@ÆÕ–ÀºÆÕ'€Àº¾ÆÖ ^@ÆÖ–ÀºÆÖ'€ÀºPÆØÀºÆØ'€ÀÉ¿ÆÚ&˜˜ÆÚWÀ³ÆÚ'€À³7Æİ ÀÆİ–À³Æİ'€À³ÆßÀÊÆß'€À³ÆàÀËÆà^@ÀÊÀÅÆáÀËÀÊÀÆÆáÀÆÀÌÆá'€À³ÀÅÆá ÀÌÆáÀ³Æá'€^@À®Æâ'À´7À¶Æâ'7À¯7Æâ'À²7ÀºÆâ'7À³Æâ—À®Æâ0ÀÂÄæÆÇ0À¿Ä Æ¤À±Å'Ææ'€À°€Æç À¼ÆçÀ¿Æç/ÁÀ¿ÀÀÆç ÀÀÆç!€ÆçÀ¼À¿ÆêOÀÀÆêOÀÁÆêÀ¿ÅUÆê'€À¿ÀÀÆê ÀÁÆê^@À¬Æê'€À¬À·Æë ^@Æë–ÀµÆë'€ÀµÆì Æì–ÀµÆì'€ÀµÆí QÆíÀµÆí&€ÀµÆîÀ¸Æî/³À¸ÀÂÆï'€ÀµÀÂÆï YÆïVÀ´Æï'€À´ÂÆğÀ´Æğ'€À´YÆñ QÆñÀ´ÆñÀ¸ÀÈÆó'€ÀÈÆô YÆôWÀÈÆô/³ÀÈÀÂÆõ'€ÀµÀÂÆõ YÆõVÀ¶Æõ'€À¶YÆö QÆöÀ¶ÆöÀ¶À´ÀÂÆ÷ÀÂÅPÆ÷À¶Æø'€^@À®Æú'À´7À¶Æú'7À¯$†Æú—À®Æú0À¿Å+Æê&€ÃÇ!^@€Ç'€À®ÄÇ!€Ç#Ç%Ç$Ç&€ÅÇ!^@ÀÎÇ'€ÀÎ´Ç ÇVÀÎÇ&€ÆÇ!^@ÀÏÇ'€ÀÏ´Ç ÇVÀÏÇ^@ÀĞÇÀÎÀÒÇ OÀÔÇ OÀÕÇ ÀÒÅ©Ç '€ÀÒÀÔÇ  ÀÕÇ ^@ÀÓÇ '€ÀÓÇÇ! QÇ!ÀÓÇ!ÀÓ^@ÀÖÇ"ÀÖÅÇ"0ÀÒÅkÇ '€ÀĞÊÇ90ÀĞÇ9&€ÀĞÇ:3ÀĞÇ:&€ËÇ=!€Ç='€ÀĞËÇ>!€Ç>&€ÌÇÙ!^@€ÇÙ#ÇÜ'€ÀÓÇ%À×Ç%'€ÀÓÇ&ÀØÇ&'€ÀØYÇ' Ç'–ÀÙÇ'&€ÀÙÇ(ÀÚÇ(ÈÀÑÇ)ÀÛÇ*ÀÚÀÖÇ,ÀÖÅ•Ç,/³ÀÛÀÜÇ-'€ÀØÀÜÇ-&YYÇ-ÀİÇ-/ÀÑÀİÀŞÇ-/ÀŞÀÑÇ-ÀÛÇ.ÀÛÀÚÀÖÇ,ÀÖÅŒÇ,ÀÑÀÖÇ1OÀÜÇ1OÀİÇ1ÀÖÅ¨Ç1'€ÀÖÀÜÇ1 ÀİÇ1^@ÀÇ1'€ÀPÇ2ÀÇ2/ÀÉÀŞÇ3'€ÀŞÀÏÇ3ÀßÇ3'€ÀßÇ4ÀàÇ4'€^@ÀĞÇ5'À×7ÀàÇ5 Ç5—ÀĞÇ50ÀÖÅ™Ç10ÀÒÅkÇ '€ÀĞÊÇ90ÀĞÇ9&€ÀĞÇ:3ÀĞÇ:&€ËÇ=!€Ç='€ÀĞËÇ>!€Ç>&€ÌÇÙ!^@€ÇÙ#ÇÜ%ÇÜ$Çä&€~ÇõÀâÇõ&€ÀâÇö!^@ÀáÇö&€Ç÷ÀëÇ÷ÀáÅÅÇû'€Àâ€Çü €ÇüÀîÇü ÀîÇüÀïÇü/ÍÀïÀğÇü ÀğÇü!€Çü €Çÿ!€Çÿ/ÀâÀîÈ/ÀîÎÀïÈ&€ÀïÈ!ÀäÈÀä^@ÀîÈÀîÅÖÈ/ÏÀâÀïÈ/ÀïÎÀğÈ&€ÀğÈ!€È&€ĞÈ!€È'€$QÈ€È#È&€ÀäÈÀîÈÀîÀïÈÀïÅãÈ/ÑÀâÀğÈ/ÀğÎÀñÈ&€ÀñÈ!€È&€ĞÈ!€È'€$QÈ€È#È/ÀäÒÀåÈ&€ÀåÈÀîÈÀîÀïÈÀïÅñÈ/ÓÀâÀğÈ/ÀğÎÀñÈ&€ÀñÈ!€È&€ĞÈ!€È'€$QÈ€È#È/ÀäÔÀæÈ&€ÀæÈÀîÈÀîÀïÈÀïÅÿÈ/ÕÀâÀğÈ/ÀğÎÀñÈ&€ÀñÈ!€È&€ĞÈ!€È'€$QÈ€È#È /ÀâÀîÈ#/ÀîÀïÈ#&€ÀïÈ#!ÀãÈ#Àã^@ÀîÈ$ÀîÆÈ$/ÖÀâÀïÈ%/ÀïÀğÈ%&€ÀğÈ%!€È%&€ĞÈ&!€È&'€$QÈ'€È'#È(&€ÀãÈ,ÀîÈ,ÀîÀïÈ,ÀïÆÈ,/×ÀâÀğÈ-/ÀğÀñÈ-&€ÀñÈ-!€È-&€ĞÈ.!€È.'€$QÈ/€È/#È0 €È4!€È4/ÀâÀîÈ7/Àî,ÀïÈ7'€tÀïÈ7 È7x€È7 €È:ÀìÈ:&€ÀåÈ;ÀçÈ;&€ÀçÈ<!€È<ÀáÆ+È?'€ÀâØÈ@!€È@ €ÈB!€ÈB&€ÀæÈEÀèÈE&€ÀèÈF!€ÈFÀáÆ4ÈI'€ÀâÙÈJ!€ÈJ €ÈL!€ÈLÀáÆ9ÈN'€ÀâÚÈO!€ÈO €ÈQ!	€ÈQ €ÈSÀíÈSÀíÀìÀîÈT'€ÛÀîÈT€ÈT €ÈVÀìÈVÀëÀîÈXÀîÆGÈX/’ÀãÀïÈY/Àï“ÀêÈYÆIÈZ/ÜÀãÀïÈ\/ÀïÀêÈ\&€ÀêÈ_#ÀéÈ_&€ÀéÈd!€ÈdÀáÆPÈe'€ÀâİÈf!€Èf €Èh!
+€ÈhÀáÆUÈj'€ÀâŞÈk!€Èk €Èm!€Èm €ÈnÀíÈnÀíÀìÀîÈp'€ßÀîÈp€Èp €ÈrÀìÈrÀáÆaÈs'€ÀâàÈt!€Èt €Èv!€Èv €ÈwÀíÈwÀíÀìÀîÈx'€áÀîÈx€ÈxÀáÆqÈz'€Àâ€È{ €È{ÀîÈ{ ÀîÈ{ÀïÈ{/âÀïÀğÈ{ ÀğÈ{!€È{/ÀâÀîÈ}/Àî,ÀïÈ}'€tÀïÈ} È}x€È}'€$È~€È~#È%È$Èˆ'€ãÀòÈŒ ÈŒÀóÈŒ'€äÀóÈ ÈÀóÈ'€åÀóÈ ÈÀóÈ'€æÀóÈ ÈÀóÈ'€çÀóÈ ÈÀóÈ'€èÀóÈ‘ È‘ÀóÈ‘'€ÀóºÈ’ È’–ÀóÈ’'€ÀóéÈ“ È“–ÀóÈ“'€ÀóêÈ” È”–ÀóÈ”'€ÀóëÈ• È•–ÀóÈ•'€ÀóëÈ– È––ÀóÈ–'€ÀóìÈ— È—–ÀóÈ—'€ÀóìÈ˜ È˜–ÀóÈ˜'€ÀóìÈ™ È™–ÀóÈ™'€ÀóìÈš Èš–ÀóÈš'€ÀóìÈ› È›–ÀóÈ›'€ÀóìÈœ Èœ–ÀóÈœ'€ÀóìÈ È–ÀóÈ'€ÀóìÈ È–ÀóÈ"ÀóÈ %È£$È«'€ÀöíÈ¶ îÈ¶–ÀöÈ¶'€ÀöïÈ· ğÈ·–ÀöÈ·'€ÀöñÈ¸ ^@È¸–ÀöÈ¸'€ÀöòÈ¹ ^@È¹–ÀöÈ¹'€ÀöóÈº ^@Èº–ÀöÈº'€ÀöôÈ» ^@È»–ÀöÈ»'€ÀöõÈ¼ öÈ¼–ÀöÈ¼Àö÷Á^@ÈÀÁ^@ÆÏÈÀøÀöÈÁÀöùÁ^@ÈÃÁ^@ÆÒÈÃúÀöÈÄÀöûÁ^@ÈÇÁ^@ÆÕÈÇüÀöÈÈÀöÁ^@ÈÊÁ^@ÆØÈÊıÀöÈË'€ÀõşÈÎÁ^@ÈÎÁ^@ÆİÈÎÿÀõÈÏ$^@ÀöÈĞ'€Àõ$ÈÔ $ÈÔ–ÀõÈÔ'€Àõ$ÈÕ $ÈÕ–ÀõÈÕÀõÀÿÈ×&€ÀõÈØÀõÈØ'€€ÀôÈÜÁ^@ÈÜ/Àö$ÁÈÜ'Á^@€ÁÈÜÁÈÜ ÁÈÜÀúÈÜÀúÇdÈŞ'€ÀôÀúÈà&€ÀôÈàÁ^@ÈàÁ^@ÀúÁÈàÁÁÈà ÁÈàÀùÈà'€Àù´Èâ ÈâVÀùÈâ'€Àù$ÈãÀûÈã'€ÀùÈä ÀûÈäÀüÈäÀü^@Á^@ÈåÁ^@ÇdÈåÀÛÈçÀüÁÈèOÁÈèOÁÈèÁÇDÈè'€ÁÁÈè ÁÈè^@ÀÓÈèÀÛÈé'€ÀÓ[Èê QÈêÀÓÈê&€ÀÓÈëÁÈëÁÀõÁÈëÁÇCÈë^@ÀÛÁÈì'€ÀüÁÈìVÀøÈì'€ÀøÈíÀøÈí'€Àø$ÈîÀøÈî'€Àø[Èï QÈïÀøÈï'€Àø[ÈñÁÈñÁÇCÈñÀ÷$ÁÈòÁÇ?ÈòÁÈô^@ÀÛÁÁ
+Èö^@Á
+ÁÈö'€ÀüÁÈöVÀıÈö'€ÀıÈ÷ $	È÷WÁ
+È÷Á
+$
+ÁÈ÷ÁÇ1È÷'€ÀıÈø $	ÈøWÀşÈø'€ÀşÈùÀşÈù'€Àş[Èú QÈúÀşÈúÇ9Èû'€Àı[ÈıÁ
+ÈıÁ
+ÁÈıÁÇ6ÈıÇ9ÈÿÁÉÁ$Á	ÈõÁ	ÇÈõÀş^@Á	ÉÁ	Ç<É$ÀşÉ/Àş$	ÁÉ
+/ÁÀøÁÉ
+"ÁÉÀÿÀşÉ/Àş$	ÁÉ
+/ÁÀøÁÉ
+"ÁÉ0ÁÇÈè^@ÀüÉ'€ÀùÀûÉ&€ÀùÉÁÉÁÀûÁÉ ÁÉÀùÉ'€€ÀùÉÁÉ/Àö$ÁÉ'Á€ÁÉÁÉ ÁÉÀúÉÀúÇbÉ'€ÀùÀúÉ&€ÀùÉÁÉÁÀúÁÉÁÁÉ ÁÉÀùÉ'€Àù´É ÉVÀùÉ'€Àù$ÉÀûÉ'€ÀùÉ ÀûÉÀüÉÀü^@Á^@ÈåÁ^@ÆÿÈå"^@É%É $É)&€~É@ÁÉ@&€ÁÉA!^@ÁÉA&€ÉBÁ ÉBÁÇvÉD'€Á€ÉE €ÉEÁ!ÉE Á!ÉEÁ"ÉE/$Á"Á#ÉE Á#ÉE!€ÉE €ÉH!€ÉH&€ÉJÁÉJÁ Á!ÉKÁ!Ç€ÉK/Á$ÁÉL/Á$Á%ÉM/EÁÁÉOÇƒÉP/Á$ÁÉR/Á$Á%ÉS/$ÁÁÉT&€Á%ÉWÁ!ÉWÁ!Á"ÉWÁ"ÇŒÉW/$Á%Á#ÉX/Á#$Á$ÉX&€Á$ÉX!€ÉX.ÉY&€Á%É\Á'É\&€Á'É^^!ÁÉ^^&€ÁÉb#ÁÉb'€$ÁÉcÁÉcÁÇ›Ée'€Á€Éf ÁÉfÁ!Éf/$Á!Á"Éf Á"Éf!€Éf^@ÁÉk&€$És!^@Á(ÉsÁÁ!ÉuOÁ"ÉuOÁ#ÉuÁ!È3Éu'€Á!Á"Éu Á#Éu^@À[ÉuÁÇ©Éw/$À[Á$Éx'€ÁÁ$Éx!€Éx'€À[PÉ{ÁÉ{/ÁÁ$É|/Á$ÁÁÉ|&€ÁÉ}Á)É}'€Á)$É~Á*É~'€Á)$ÉÁ+É^@Á*Á$ÉÁ+Á*Á&ÉÁ&Á,É'€Á)Á$É Á,ÉÁÉ'€Á[É‚ÁÉ‚'€ÁÉƒÁÉƒÁÇÄÉ„'€Á€É… ÁÉ…Á$É…/$Á$Á&É… Á&É…!€É…'€Á$Éˆ ^@Éˆ–ÁÉˆ/$ÁÁ$É‹/Á$$ÁÉ‹&€ÁÉŒ!^@€ÉŒ/$ÁÁ$É/Á$$ÁÉ&€ÁÉ!^@ÁÉ'€ÁÉVÁÉ'€ÁÉ‘ÁÉ‘ÁÁ$É“OÁ&É“OÁ,É“Á$È2É“'€Á$Á&É“ Á,É“^@Á.É“'€Á.ÇÉ”Á.É”Á.^@Á-É•Á-ÇàÉ•0Á$Ç×É“È2É–'€Á.$É˜Á-É˜Á-Á/É˜Á/ÇåÉ˜/Á.$Á.É™/ÁÁ-É›/Á-Á.Á/É›&€Á/É›ÁÉ›'€$ ÁÉœÁÉœ'€Á.$É ^@É–Á.ÉÁÁ-ÉOÁ/ÉOÁ0ÉÁ-È1É'€Á-Á/É Á0É^@Á1É'€Á1˜ÉŸÁÉŸ'€Á1‹É ÁÉ ^@ÁQÁ2É¡ÁÁÁ3É¡Á3$!Á4É¡'€Á1Á2É¡ Á4É¡ÁÉ¡'€Á1$"É£Á2É£Á2ÈÉ£$Á5É¤È
+É¥'€Á1$#É¦Á3É¦Á3È	É¦$$Á5É§È
+É¨$%Á5Éª'€^@ÁÉ­'7Á.7É­&Á$&É­—Á6É­'€Á6Á(É­Á7É­Á7Á8É­Á8È0É­'€^@Á.É®'7Á$&É®—Á9É®'€Á9Á(É®Á:É®Á:Á;É®Á;È+É®'€ÁÁÉ¯&Á.Á5É¯!ÁÉ¯'€ÁÉ° $	É°WÁ<É°'€Á´É±&$	$	É±WÁÉ±'€Á$É² ^@É²–ÁÉ²'€^@ÁÉ³'$'Á.$(É³'Á$(Á5É³'$(Á$(É³&Á<$É³—ÁÉ³'€^@ÁÉµ'$)Á$*Éµ'Á.$+ÁÉµ $,Éµ—ÁÉµ0Á-ÇòÉ0Á$Ç×É“0Á!Ç¢ÉuÁÁÉ¼&€ÁÉ½!^@€É½ÁÈ?É¾'€Á€É¿ €É¿Á!É¿ Á!É¿Á"É¿/$-Á"Á#É¿ Á#É¿!€É¿#ÉÂ%ÉÂ$ÉË&€ÉÑ!Á>ÉÑ&€Á>ÉÒ!^@Á@ÉÒ/Á>ÁAÉÔ/ÁAÁBÉÔ&€ÁBÉÔ!Á=ÉÔ/Á>ÁAÉÕ/ÁAÁBÉÕ&€ÁBÉÕ!Á?ÉÕÁ=^@ÁAÉ×ÁAÈQÉ×Á=ÉØÁ?^@ÁAÉÜÁAÈTÉÜÁ?Éİ'€î$ƒÉà'$„$!€Éá'$.$/Á=ÉâÁDÉã'ÁD€$.Éã&$0Á?ÉäÁEÉä ÁEÉå9ÁCÉå'€ÁCÉè ^@ÉèVÁFÉè'€ÁCÉé ^@ÉéVÁ=Éé'€ÁCQÉê ^@ÉêVÁ?ÉêÁFÁAÉìÁAÈiÉì#ÉíÁ=^@ÁAÉïÁAÈlÉïÁ=ÉğÁ?^@ÁAÉòÁAÈoÉòÁ?Éó/Á>ÁAÉø/ÁAÁBÉø'€tÁBÉø Á=Éøx€Éø/Á>ÁAÉù/ÁAÁBÉù'€tÁBÉù Á?Éùx€ÉùÁ@È|Éû'€Á>$1Éü!€Éü#Éÿ%Éÿ$Ê&€Ê!ÁJÊ&€ÁJÊ!^@ÁIÊ/ÁJÁKÊ/ÁKÎÁLÊ&€ÁLÊ!ÁGÊ/ÁJÁKÊ/ÁKÁLÊ&€ÁLÊ!ÁHÊ'€$2$ƒÊ'$„$!€Ê'$.$3ÁGÊÁNÊ'ÁN€$.Ê&$4ÁHÊÁOÊ ÁOÊ9ÁCÊ'€ÁCÊ ^@ÊVÁFÊ'€ÁCÊ ^@ÊVÁGÊ'€ÁCQÊ ^@ÊVÁHÊÁFÁKÊ ÁKÈ Ê #Ê!ÁH^@ÁKÊ#ÁKÈ¥Ê#&€$5Ê$!€Ê$#Ê%ÁG^@ÁKÊ'ÁKÈªÊ'&€$6Ê(!€Ê(#Ê)&€ÁHÊ,ÁKÊ,ÁKÁLÊ,ÁLÈ³Ê,/$7ÁHÁMÊ-/ÁM$8ÁNÊ-&€ÁNÊ-!€Ê-#Ê.&€ÁGÊ1ÁKÊ1ÁKÁLÊ1ÁLÈ¼Ê1/$9ÁGÁMÊ2/ÁM$8ÁNÊ2&€ÁNÊ2!€Ê2#Ê3/ÁJÁKÊ7/ÁKÎÁLÊ7'€tÁLÊ7 ÁGÊ7x€Ê7/ÁJÁKÊ8/ÁKÁLÊ8'€tÁLÊ8 ÁHÊ8x€Ê8ÁIÈÉÊ:'€ÁJ$:Ê;!€Ê;#Ê>%Ê>$ÊI&€ÊL!ÁQÊL&€ÁPÊMÁPÊMÁP$;ÁRÊNÁRÈÛÊN/ÁQÁSÊO/ÁS$<ÁTÊO'€tÁTÊO ÊOx€ÊO/ÁQ$=ÁSÊP&€ÁSÊP€ÊP#ÊZÁP$>ÁSÊRÁSÈæÊR/ÁQÁTÊS/ÁT$<ÁUÊS'€tÁUÊS ÊSx€ÊS/ÁQ$?ÁTÊT&€ÁTÊT€ÊT#ÊZ/$@ÁPÁTÊX/ÁT$AÁUÊX&€ÁUÊX!€ÊX#ÊZ%ÊZ$Êa&€^@ÊmÁ^^Êm&€Á^^Ên!^@Á]Ên^@Á[Êo$Á\ÊrÁVÁ`ÊtOÁbÊtOÁcÊtÁ`É'Êt'€Á`ÁbÊt ÁcÊt^@ÁaÊt'€ÁaPÊuÁaÊu/$BÁaÁdÊw/Ád$CÁWÊx&€ÁWÊz!^@Á_Êz'€Á_Ê{ÁXÊ{'€Á_Ê|ÁYÊ|'€Á_QÊ}ÁZÊ}ÁZÉÊ€$DÁ\Ê‚'€^@Á[Ê'$‡Áa$,Ê—Á[Ê0Á`È÷ÊtÉ'Ê‘ÁYÁdÊ„ÁXÁdÁeÊ„ÁeÉÊ„$Á\Ê†'€^@Á[Ê'$ˆÁa$,Ê—Á[Ê0Á`È÷ÊtÉ'Ê‘ÁXÁfÊˆÁfÁYÁgÊˆÁgÉÊˆ$EÁ\ÊŠ'€^@Á[Ê'$‰Áa$,Ê—Á[Ê0Á`È÷ÊtÉ'Ê‘ÁXÁYÁhÊŒÁhÉ"ÊŒ$FÁ\Ê'€^@Á[Ê'$GÁ\$HÊ&Áa$,Ê—Á[Ê0Á`È÷ÊtÁ[^@Á`Ê”Á`É/Ê”Á]É-Ê•/$IÁ[ÁbÊ–'€Á^^ÁbÊ–!€Ê–&€Á[Ê˜!^@€Ê˜#Êš%Êš$Ê¡&€^@Ê³ÁmÊ³&€ÁmÊ´!^@ÁlÊ´&€ÁkÊ·ÁqÊ·'€ÁkÊ¸WÁuÊ¸ÁrÊºÁsÊ¼^@ÁoÊ½ÁqÁ{Ê¾Á{É_Ê¾Á|ÁsÁtÊ¿/Ár$JÁ}ÊÀ/Á}ÁtÁ~ÊÀ'€ÁuÁ~ÊÀVÁpÊÀ'€ÁpÊÁ ‹ÊÁ–ÁpÊÁ'€Áp‹ÊÂ QÊÂÁpÊÂ'€^@$KÊÄ'Ái$LÁpÊÄ'[Áj$MÊÄ ÁƒÊÄ—ÁnÊÄÁlÉSÊÅ/$NÁnÁ}ÊÆ'€ÁmÁ}ÊÆ!€ÊÆ&€ÁnÊÉ#Á}ÊÉ/ÁoÁ}Á~ÊÉ/Á~ÁoÊÉÁlÉ[ÊÊ/$OÁoÁ}ÊË'€ÁmÁ}ÊË!€ÊËÁ|ÁsÁrÊÍÁsÊÎÁrÁqÁ{Ê¾Á{É?Ê¾ÁkÁ{ÊÒOÁ}ÊÒOÁ~ÊÒÁ{ÉÊÒ'€Á{Á}ÊÒ Á~ÊÒ^@Á„ÊÒ'€Á„ÊÓWÁvÊÓ'€Á„QÊÕWÁxÊÕ'€Á„$!ÊÖWÁyÊÖÁx^@ÁÊ×Áx$PÁ€Ê×ÁÁ€ÁÊ×ÁÉqÊ×ÁxÊØ'€ÁvÁoÊÚÁÊÚÁÉ“ÊÚÁ…ÊÜÁlÉyÊİ/$QÁvÁ€ÊŞ'€ÁmÁ€ÊŞ!€ÊŞÁxÊà'€ÁxÊá YÊáWÁxÊáÁxÁ†Á€ÊâÁ€É†ÊâÁlÉ„Êã/$RÁvÁÊä/Á$SÁ‚Êä'€ÁmÁ‚Êä!€ÊäÁwÊæÉŒÊçÁlÉ‹Êé/$TÁxÁÊê/Á$UÁ‚Êê'€ÁmÁ‚Êê!€ÊêQÁwÊì'€^@ÁzÊö'$XÁw$YÊö'Áx$HÁyÊö $,Êö—ÁzÊö0Á{ÉcÊÒ"ÁzÊùÁ‡ÊğÁlÉ™Êñ/$VÁvÁ€Êò/Á€$WÁÊò'€ÁmÁÊò!€Êò'€^@ÁzÊö'$ŠÁx$HÊö&Áy$,Êö—ÁzÊö0Á{ÉcÊÒ"ÁzÊù%Êú$Ë&€^@ËÁŠË&€ÁŠË!^@Á‰Ë&€ËÁË&€ËÁËÁÁ”ËÁ”É­ËÁ“ËÉ®ËÁ“Ë^@Á’Ë'€ÁˆËWÁ‹Ë'€Á‹ÊË 0Á‹Ë &€Á‹Ë!3Á‹Ë!'€$Z€Ë# Á‹Ë#Á”Ë# Á”Ë#€Ë#/ÁŠÁ”Ë'/Á”$[Á•Ë'&€Á•Ë'!Á|Ë'Á|^@Á”Ë)&€Á|Ë):Á•Ë)Á•Á–Ë)Á”Á–Á—Ë)Á—ÉÅË)$\Á|Ë*Á‰ÉÉË,/$]Á|Á”Ë-'€ÁŠÁ”Ë-!€Ë-/ÁŠÁ”Ë//Á”$^^Á•Ë/&€Á•Ë/!ÁƒË/Áƒ^@Á”Ë1&€ÁƒË1:Á•Ë1Á•Á–Ë1Á”Á–Á—Ë1Á—ÉÔË1$\ÁƒË2Á‰ÉØË4/$_ÁƒÁ”Ë5'€ÁŠÁ”Ë5!€Ë5/ÁŠÁ”Ë8/Á”$`Á•Ë8&€Á•Ë8!Á†Ë8Á†^@Á”Ë9&€Á†Ë9:Á•Ë9Á•Á–Ë9Á”Á–Á—Ë9Á—ÉãË9QÁ†Ë:Á‰ÉçË</$aÁ†Á”Ë='€ÁŠÁ”Ë=!€Ë=Á…Ë@Á‡ËAÁ‹Á”ËFOÁ•ËFOÁ–ËFÁ”Ê4ËF'€Á”Á•ËF Á–ËF^@ÁaËF'€ÁaPËGÁaËG'€^@ÁËK'$bÁ“ÁaËK –ËK—Á‘ËK&€Á‘ËLÁ—ËLÁ—Á˜ËLÁ˜ÊËL'€^@Á›ËN'$cÁa$dËN—Á›ËNÁ‰ÊËO/$cÁaÁ™ËP/Á™$eÁšËP'€ÁŠÁšËP!€ËP0Á”ÉíËFÊ4ËR/$fÁaÁ—ËU'€Á—ÁˆËUÁŒËUÁ‰ÊËV/$gÁaÁ—ËW/Á—$hÁ˜ËW'€ÁŠ€ËW ÁŒËWÁ™ËW/Á˜Á™ÁšËW/Áš$iÁœËW ÁœËW!€ËW'€ÁŒ$EËZWÁËZ&€ÁË[0ÁË[&€ÁË\3ÁË\ÁÁ—Ë`OÁ˜Ë`OÁ™Ë`Á—Ê3Ë`'€Á—Á˜Ë` Á™Ë`^@ÁË`/ÁÉÁšËa'€ÁšÁŒËaÁËa'€Á$jËb'77ËbWÁËbÁ‰Ê.Ëc/$kÁÁšËd/Áš$hÁœËd'€ÁŠ€Ëd ÁËdÁËd/ÁœÁÁŸËd/ÁŸ$iÁ Ëd Á Ëd!€Ëd'€ÁÁ‘Ëf ÁËf!ÁšËf/Á’ÁšÁ’Ëf0Á—ÊË`0Á”ÉíËFÁ’^@Á”ËjÁ”Ê<ËjÁ‰Ê:Ëk/$lÁ’Á•Ël'€ÁŠÁ•Ël!€Ël&€Á’Ën!^@€Ën'€$m€Ës Á’ËsÁ”Ës Á”Ës€Ës'€$nÁ…Ët€Ët'€$oÁ‡Ëu€Ëu&€Á‹Ëx!€Ëx#Ëz%Ëz$Ë&€$pË!^@Á¢Ë"Á¢Ë%Ë$Ë–&€^@ËÁ¨Ë&€Á¨ËŸ!^@Á§ËŸ'€^@Á£Ë¡'Á¥Á¤–Ë¡—Á©Ë¡Á§ÊZË¢/$qÁ©Á«Ë£'€Á¨Á«Ë£!€Ë£'€Á©
+Ë¥UÁªË¥'€Á¦‹Ë§ Ë§Á¦Ë§'€ÁªÁ¦Ë¨,€Ë¨&€ÁªË©)€Ë©#Ëª%Ëª$Ë±&€^@ËÃÁ®ËÃ&€ËÄÁ¯ËÄ&€Á®ËÅ!^@Á­ËÅ&€ËÆÁ²ËÆÁ²Á»ËÈÁ»ÊsËÈ/Á¯$bÁ±ËÉÁ¹ËÊÊuËË/Á¯$bÁ±ËÍÁ¹ËÎ&€Á±ËÑÁ»ËÑÁ»Á¼ËÑÁ¼Ê€ËÑÁ­Ê}ËÓ/$rÁ±Á½ËÔ'€Á®Á½ËÔ!€ËÔ/rÁ±Á°ËÖ&€Á°Ë×#€Ë×^@Á·ËÚ$sÁ¸ËÛÁ¬Á»ËÜOÁ¼ËÜOÁ½ËÜÁ»Ê¥ËÜ'€Á»Á¼ËÜ Á½ËÜ^@ÀÓËÜ'€ÀÓËİ 7ËİWÁ³Ëİ'€ÀÓËŞ 7ËŞWÁ´ËŞ'€ÀÓQËß 7ËßWÁµËß'€ÀÓ$tËà&77ËàWÁ¶ËàÁ·Á³Á¾ËáÁ·^@Á¿ËáÁ¾Á¿ÁÀËáÁÀÊËá'€Á±Á·Ëã&Á¹Á¸Ëã!€Ëã$sÁ¸ËäÁ³Á·Ëæ'€^@Ëç'Á´$uÁµËç'$vÁ¶$wËç—ÁºËç/Á¸Á¾Ëè/Á¾ÁºÁ¸Ëè0Á»Ê†ËÜÁ·^@Á»ËìÁ»ÊªËì'€Á±Á·Ëí&Á¹Á¸Ëí!€Ëí#Ëï%Ëï$ Ëö&€$xÌ!^@ÁÂÌ"ÁÂÌ% Ì$!Ì&€^@ÌÁÆÌ&€-ÌÁÇÌ&€ÁÆÌ!^@ÁÃÌ^@Á›ÌÁÃÊÄÌ/$yÁÇÁËÌ/ÁËmÁÌÌ'€ÁÆ€Ì €ÌÁÍÌ ÁÍÌÁÎÌ/ÁÌÁÎÁÏÌ ÁÏÌ!€Ì/ÁÆÁËÌ"/ÁË$<ÁÌÌ"&€ÁÌÌ"!ÁÉÌ"ÁÉÁËÌ#ÁËÊÔÌ#ÁÃÊÑÌ%/$zÁÆÁÌÌ&/ÁÌ${ÁÍÌ&'€ÁÆÁÍÌ&!€Ì&'€ÁÆ$|Ì'!€Ì''€$QÌ)€Ì).Ì* €Ì/!€Ì/ €Ì3ÁÄÌ3 €Ì7! ÁÊÌ7'€ÁÊ´Ì8VÁÊÌ8ÁÊ^@ÁËÌ9ÁËÊãÌ9ÁÃÊáÌ;'€ÁÆ$}Ì<!€Ì<&€ÁÊÌ>!€Ì> €ÌB!ÁÈÌB'€ÁÈ´ÌCVÁÈÌCÁÈ^@ÁËÌGÁËÊïÌGÁÃÊìÌH'€ÁÆ$~ÌI!€ÌI&€ÁÈÌK!€ÌKÊòÌLÁÃÊòÌN'€ÁÆ$ÌO!€ÌO €ÌTÁÅÌTÁÅÁÄÁËÌU'€$€ÁËÌU€ÌU'€$ÌW€ÌWÁ›^@ÁËÌYÁËÊşÌY'€$ÌZ€ÌZËÌ['€$€Ì] Á›Ì]ÁÌÌ] ÁÌÌ]€Ì]'€$‚^@Ì^^ Á›Ì^^zÁÌÌ^^ÁÃËÌa/$yÁÇÁËÌb/ÁË}ÁÌÌb'€ÁÆ€Ìb ÁÅÌbÁÍÌb/ÁÌÁÍÁÎÌb ÁÎÌb!€Ìb#Ìd%!Ìd.ÌeÁÑ§£cmdÂ©agentportÂ§appTypeÂ¥debugÂ¦osTypeÂªpatrolHomeÂ¦sqlCmdÂ¬sqlCmdResultÂ§tmpFileÂ«tmpFileOpen¥³@temp_1:run_sql_cmd¥³@temp_3:run_sql_cmd®«databaseSid®¨userName®¨password®®databaseServer®¬annotateDataÂ§appTypeÂ£cmdÂ¥debugÂ¦osTypeÂ¦result¥µ@temp_1:set_user_name®¨userPass¥µ@temp_2:set_user_name¥µ@temp_3:set_user_name¥µ@temp_4:set_user_name¥µ@temp_5:set_user_name¥µ@temp_6:set_user_name¥µ@temp_7:set_user_name¥µ@temp_8:set_user_name¥µ@temp_9:set_user_nameÂ¥debugÂ§appTypeÂ­waitBeforeRunÂ«numberOfTry¥·@temp_1:wait_before_run¥·@temp_2:wait_before_run¥·@temp_3:wait_before_run¯«dataToEnter¯§dbTableÂ§addFileÂ«addFileOpenÂ©agentportÂ§appTypeÂ£cmdÂ¥debugÂ¦osTypeÂªpatrolHomeÂ¦delCmdÂ©timeStamp¥´@temp_1:add_to_table¯¬tableToClearÂ¥debugÂ§appTypeÂ£cmd¥³@temp_1:clear_table¯©directoryÂ¥debugÂ§appTypeÂ¦osTypeÂªtotalFilesÂ£cmd¥·@temp_1:get_total_files¥·@temp_2:get_total_filesÂ£cmdÂ£cmdÂ£cmdÂ£cmdÂ£cmdÂ£cmd§ªtotalFiles¯®oldFileStorageÂ¥debugÂ§appTypeÂ¨fullPathÂ©agentportÂªpatrolHomeÂ¯fullPathContentÂ¨hostNameÂªportNumberÂªconfigDataÂ­thresholdDataÂ­kmVersionDataÂ­configDataTmpÂ°thresholdDataTmpÂ°kmVersionDataTmpÂªindFileTmpÂ¦osTypeÂ£cmd¥µ@temp_1:process_files®§indFile¥µ@temp_2:process_files¥µ@temp_3:process_files¥µ@temp_4:process_files¥µ@temp_5:process_files¥µ@temp_6:process_files¥µ@temp_7:process_files¥µ@temp_8:process_files¥µ@temp_9:process_filesÂ¥debugÂ©startTimeÂ§endTimeÂ§appTypeÂ©parameterÂ©agentportÂªpatrolHomeÂ­storageFolderÂ®oldFileStorageÂ£cmdÂ­fileToProcessÂ¦osType¥¿@temp_1:pam_process_config_coll¥¿@temp_2:pam_process_config_coll¥¿@temp_3:pam_process_config_coll¥¿@temp_4:pam_process_config_coll¥¿@temp_5:pam_process_config_coll¥¿@temp_6:pam_process_config_coll¯¯agentIniContentÂ«defaultPortÂ¯defaultProtocolÂ¨hostNameÂ§parentsÂ¤portÂ¨protocolÂ©finalFileÂ«dateEnteredÂ£cmdÂ§appTypeÂ¥debugÂ°firstOpenBracketÂ­firstFewLines¥¾@temp_1:process_agent_ini_file¥¾@temp_2:process_agent_ini_file¥¾@temp_3:process_agent_ini_file¥¾@temp_4:process_agent_ini_file¥¾@temp_5:process_agent_ini_file®¯indAgentContent¥¾@temp_6:process_agent_ini_file¥¾@temp_7:process_agent_ini_file®«hostDisplay®©indParent¯©cmdResult¯°groupsIniContentÂ©groupNameÂ§parentsÂªapplyOnNewÂ©finalFileÂ«dateEnteredÂ§appTypeÂ¥debugÂ¯applyOnNewTotalÂ©firstTimeÂ£cmdÂ­rulesetFolderÂ©cmdResultÂ¨positionÂ¦osType¥¾@temp_1:process_group_ini_file¥¾@temp_2:process_group_ini_file¥¾@temp_3:process_group_ini_file®¯indGroupContent¥¾@temp_4:process_group_ini_file¥¾@temp_5:process_group_ini_file¥¾@temp_6:process_group_ini_file¥¾@temp_7:process_group_ini_file®¨indApply¥¾@temp_8:process_group_ini_file¥¾@temp_9:process_group_ini_file¥¿@temp_10:process_group_ini_file¥¿@temp_11:process_group_ini_file¥¿@temp_12:process_group_ini_file®ªindRuleset¯´rulesetTotalFilesTmpÂ©finalFileÂ«dateEnteredÂ§appTypeÂ¥debugÂ¯pconfigVariableÂ¬pconfigValueÂ«rulesetNameÂ®rulesetNameTmpÂ¦parentÂ­rulesetFolderÂ©totalLineÂ£cmdÂ­pconfigActionÂ°rulsetTotalFilesÂ²rulsetTotalParentsÂ­numberOfRulesÂ¦osType¥¾@temp_1:process_ruleset_folder¥¾@temp_2:process_ruleset_folder¥¾@temp_3:process_ruleset_folder¥¾@temp_4:process_ruleset_folder¥¾@temp_5:process_ruleset_folder¥¾@temp_6:process_ruleset_folder¥¾@temp_7:process_ruleset_folder¥¾@temp_8:process_ruleset_folder®®rulesetContent®¬totalLineTmp®ªindPconfig®¨firstPos¦§lastPos¥¾@temp_9:process_ruleset_folderÂ£cmdÂ«totalAgentsÂ«totalGroupsÂ©finalFileÂ¬totalParents¥¸@temp_1:create_ooc_table®§indLine¥¸@temp_2:create_ooc_table¥¸@temp_3:create_ooc_table¥¸@temp_4:create_ooc_table¦§agentId®¦parent¦©parentTmp¦¯numberOfParents®¡i¥¸@temp_5:create_ooc_table¥¸@temp_6:create_ooc_table¥¸@temp_7:create_ooc_table¦©groupLine¦§groupIdÂ¥debugÂ§appTypeÂ­rulesetFolderÂ©iniFolderÂ¬agentIniFileÂ¬groupIniFileÂ°agentsIniContentÂ°groupsIniContentÂ±rulesetTotalFilesÂ£cmdÂ¦osTypeÂ©startTimeÂ§endTime¥¾@temp_1:update_pcm_tables_coll¥¾@temp_2:update_pcm_tables_coll¥¾@temp_3:update_pcm_tables_coll¥¾@temp_4:update_pcm_tables_coll§«fileContentÂªnewContent¯¤list¯©parameter¯¨appClass§©paramTypeÂ«descriptionÂ¬remainingTxtÂ«appClassPosÂ«appClassEndÂªtxtToCheckÂ­CollectorLineÂ­CollectorNameÂ­parameterSave¥·@temp_1:get_description¥·@temp_2:get_description¥·@temp_3:get_description¥·@temp_4:get_description¥·@temp_5:get_description¥·@temp_6:get_description¥·@temp_7:get_description¥·@temp_8:get_description®¤deep¥·@temp_9:get_description¥¸@temp_10:get_description¥¸@temp_11:get_description¦¬returnStringÂ¨descFileÂªpatrolHomeÂ¯knowledgeFolderÂ£cmdÂ¨allFilesÂ¨kmlFilesÂ­sqlStatementsÂ¥debugÂ§appTypeÂ¨categoryÂ®knowledgeFilesÂªallKMFilesÂ¥catIdÂ­kmFileContentÂ­allParametersÂ¨equalPosÂ¨commaPosÂ­parameterNameÂ«descriptionÂ¦osType¥À"@temp_1:update_parameter_table_cmd¥À"@temp_2:update_parameter_table_cmd¥À"@temp_3:update_parameter_table_cmd¥À"@temp_4:update_parameter_table_cmd®©paramFile¥À"@temp_5:update_parameter_table_cmd¦«fileContent®¨allTable®®indFileContent®§kmStart¦¥kmEnd¥À"@temp_6:update_parameter_table_cmd¥À"@temp_7:update_parameter_table_cmd®©indKMFile¥À"@temp_8:update_parameter_table_cmd¥À"@temp_9:update_parameter_table_cmd®¨indParam¥À#@temp_10:update_parameter_table_cmd¥À#@temp_11:update_parameter_table_cmd¥À#@temp_12:update_parameter_table_cmd®©paramType¥À#@temp_14:update_parameter_table_cmd¥À#@temp_15:update_parameter_table_cmd¥À#@temp_16:update_parameter_table_cmd¥À#@temp_19:update_parameter_table_cmd¥À#@temp_20:update_parameter_table_cmd¥À#@temp_21:update_parameter_table_cmd¦©collectorÂ¨dbServerÂ§appTypeÂ©destDbSidÂ¥debug¥À&@temp_1:define_database_connection_cmd¥À&@temp_2:define_database_connection_cmd®§ret_str¥À&@temp_4:define_database_connection_cmd¥À&@temp_5:define_database_connection_cmd®¬userResponseÂ©iniFolderÂ­rulesetFolderÂ¥debugÂ§appType¥¿@temp_1:define_pcm_settings_cmd¥¿@temp_2:define_pcm_settings_cmd¥¿@temp_3:define_pcm_settings_cmd¥¿@temp_4:define_pcm_settings_cmd¥¿@temp_5:define_pcm_settings_cmd¯¥stateÂ§appType¥¾@temp_1:enable_push_config_cmd¥¾@temp_2:enable_push_config_cmd¥¾@temp_3:enable_push_config_cmd¥¾@temp_4:enable_push_config_cmd§­requestIdSentÂ£cmdÂªanySuccessÂ§anyFailÂ¨anyRetryÂ²databaseUpdateFileÂ³changeRequestStatusÂ¥debugÂ§appTypeÂ¦result¥À%@temp_1:update_change_requests_status®¬indRequestId¥À%@temp_2:update_change_requests_status¥À%@temp_3:update_change_requests_status¥À%@temp_4:update_change_requests_status¥À%@temp_5:update_change_requests_status¥À%@temp_6:update_change_requests_status¥À%@temp_7:update_change_requests_status¥À%@temp_8:update_change_requests_status§«indPortSent§¯pconfigFileSent¯±agentsForPortSentÂ¥debugÂ§appTypeÂ£cmdÂ¦resultÂ­agentsToApplyÂ®numberOfAgentsÂ­numberAppliedÂ©iterationÂªupperBoundÂ¬allAgentNameÂ«indHostnameÂ©indStatusÂ¨indRetryÂ¥indIdÂ©lineToAdd¥À"@temp_1:push_request_to_agent_port®²simultaneousAgents¥À"@temp_2:push_request_to_agent_port¥À"@temp_3:push_request_to_agent_port¥À"@temp_4:push_request_to_agent_port¥À"@temp_5:push_request_to_agent_port¥À"@temp_6:push_request_to_agent_port¥À"@temp_7:push_request_to_agent_port®®pconfigtimeOut®¨indAgent®°ApplyAgentFailed®¬allowedRetry®±ApplyAgentSuccess¯©agentListÂ¥debugÂ§appTypeÂ©requestIdÂ°agentsForRequestÂ¨allPortsÂ­agentsForPortÂªpatrolHomeÂ¦osTypeÂ«pconfigFileÂ²databaseUpdateFileÂ©separator¥¶@temp_1:push_to_agents¥¶@temp_2:push_to_agents¥¶@temp_3:push_to_agents¥¶@temp_4:push_to_agents¥¶@temp_5:push_to_agents¥¶@temp_6:push_to_agents¥¶@temp_7:push_to_agents®©dataError¥¶@temp_8:push_to_agents¥¶@temp_9:push_to_agents®§indPort¥·@temp_10:push_to_agents¥·@temp_11:push_to_agentsÂ£cmdÂ¦result§±pconfigFolderSent§±lastRequestIdSent§­separatorSent¯²pconfigContentSentÂ¥debugÂ§appTypeÂ¯pconfigFileNameÂ³pconfigFileNameOpen¥º@temp_1:write_pconfig_file§±rulesToDeploySentÂ¥debugÂ§appTypeÂªpatrolHomeÂ£cmdÂ­pconfigFolderÂ¦osTypeÂ©requestIdÂ¨variableÂ©operationÂ¥valueÂ­lastRequestIdÂ®pconfigContentÂ©separatorÂ©lineToAdd¥»@temp_1:create_pconfig_file¥»@temp_2:create_pconfig_file¥»@temp_3:create_pconfig_file¥»@temp_4:create_pconfig_file¥»@temp_5:create_pconfig_file¥»@temp_6:create_pconfig_fileÂ£cmdÂ¦resultÂ¥debugÂ©startTimeÂ§endTimeÂ§appTypeÂ©parameterÂ®agentsToDeployÂ¯parameterEnableÂ­rulesToDeploy¥½@temp_1:pam_apply_config_coll¥½@temp_2:pam_apply_config_coll¥½@temp_3:pam_apply_config_coll¥½@temp_4:pam_apply_config_coll¥½@temp_5:pam_apply_config_coll¥¬@temp_1:@optÁ‹§appType«/patrolHome¨/tcpPort¨/appType¢NT¦remote¡/¨/tmpFile¡\¨\tmpFile¡w¤use ¢;
+©mysql -u ¬ --password=¤ -h ¬ -e "source ¡"«SUCCESSFUL
+¥FAIL ¡
+À*run_sql_cmd(): Result of the sql CMD is:  «getpassUnix¤exitªgetpassWinªECHO is on¡2¤/KM/©/dbServerª/destDbSid©localhost¥pamdbÀ/set_user_name(): Username/password missing for £sidÀˆ.  Please enter credentials under Properties from console.  If that's not the issue, verify that cmd.exe is present in C:\WINNT\SYSTEM32À:.  Please enter credentials under Properties from console.¥value°select version()¥error¡iÀQset_user_name(): Can't connect to the database.  Make sure it's running and user À) is created with appropriate permissions.À.set_user_name(): Database connection confirmed¢20®/waitBeforeRun¤nameÀ*: Database being updated, waiting 1 minute¢60«%Y-%m-%d %TÀ'add_to_table(): Adding entry for table ¬CONFIG_TABLE¢\\£\\t¥\    §__SEP__¡	®_DATE_ENTERED_¦/LOAD_¤.dat¤del ¦\LOAD_£rm ¸LOAD DATA LOCAL INFILE '­' INTO TABLE ¡;À/add_to_table(): Running the following command: À*clear_table(): Truncating temporary table ©truncate ®DELETED DATA 
+£ls §dir /b ¤csv$À.get_total_files(): Number of files to process Ú…drop table if exists ags;
+drop table if exists agt;
+drop table if exists newhosts;
+drop table if exists newhostsdetail;
+
+create temporary table ags (hostname varchar(100),port int) as
+select hostname,port from agents
+group by hostname,port;
+
+create temporary table agt (hostname varchar (100),port int) as
+select hostname,port_number port from threshold_table
+group by hostname, port;
+
+create temporary table newhosts (hostname varchar (100),port int) as
+select agt.hostname,agt.port
+from agt
+left outer join ags
+on (ags.hostname = agt.hostname and ags.port = agt.port)
+where ags.hostname is null;
+
+create temporary table newhostsdetail as
+select * from agents where 1=0;
+insert into newhostsdetail (hostname,port,ipaddress)
+select threshold_table.hostname,
+threshold_table.port_number,
+threshold_table.ip_address
+from threshold_table,newhosts
+where threshold_table.hostname = newhosts.hostname
+and threshold_table.port_number = newhosts.port
+group by threshold_table.hostname,port_number;
+
+INSERT INTO agents (
+hostname,
+ipaddress,
+-- display_name,
+port,
+-- protocol,
+source,
+status,
+date_entered)
+SELECT
+newhostsdetail.hostname,
+newhostsdetail.ipaddress,
+-- newhostsdetail.host_display,
+newhostsdetail.port,
+-- newhostsdetail.protocol,
+'DISCOVERED',
+'INACTIVE',
+now()
+FROM
+newhostsdetail
+-- threshold_table
+-- WHERE
+-- newhostsdetail.hostname = threshold_table.hostname
+GROUP BY
+-- newhostsdetail.host_display,
+newhostsdetail.hostname,
+newhostsdetail.port;
+
+drop table if exists ags;
+drop table if exists agt;
+drop table if exists newhosts;
+drop table if exists newhostsdetail;
+
+-- -------------Delete info from threshold table ------------
+
+-- -----------------------------------------------------------
+-- ----------- load threshold data into table     ------------
+-- -----------------------------------------------------------
+
+-- ---- Delete data first ------
+
+drop table if exists ftlog;
+create table ftlog (id int) as
+select  a.id
+from
+    agents a, threshold_table c
+    where   a.hostname = c.hostname
+    AND     a.port = c.port_number
+    group by a.id;
+
+DELETE from thresholds where agentid IN (select id from ftlog);
+
+INSERT INTO thresholds (
+agentid,
+application_class,
+instance,
+parameter,
+border_active,
+border_min,
+border_max,
+border_trigger,
+border_occur,
+border_state,
+border_recov,
+alarm1_active,
+alarm1_min,
+alarm1_max,
+alarm1_trigger,
+alarm1_occur,
+alarm1_state,
+alarm1_recov,
+alarm2_active,
+alarm2_min,
+alarm2_max,
+alarm2_trigger,
+alarm2_occur,
+alarm2_state,
+alarm2_recov,
+polltime,
+km_localized,
+param_value,
+param_type,
+arsalarm,
+arswarning,
+arsinformation,
+msgtextalarm,
+msgtextwarning,
+msgtextinformation,
+alertsystem,
+customid1,
+customid2,
+blackout,
+date_entered,
+date_gathered,
+emailalarm,
+emailwarning,
+emailinformation,
+last_updated
+)
+SELECT
+agents.id,
+threshold_table.app_class,
+threshold_table.instance,
+threshold_table.parameter,
+threshold_table.border_active,
+threshold_table.border_min,
+threshold_table.border_max,
+threshold_table.border_trigger,
+threshold_table.border_occur,
+threshold_table.border_state,
+threshold_table.border_recov,
+threshold_table.alarm1_active,
+threshold_table.alarm1_min,
+threshold_table.alarm1_max,
+threshold_table.alarm1_trigger,
+threshold_table.alarm1_occur,
+threshold_table.alarm1_state,
+threshold_table.alarm1_recov,
+threshold_table.alarm2_active,
+threshold_table.alarm2_min,
+threshold_table.alarm2_max,
+threshold_table.alarm2_trigger,
+threshold_table.alarm2_occur,
+threshold_table.alarm2_state,
+threshold_table.alarm2_recov,
+threshold_table.polltime,
+threshold_table.km_localized,
+threshold_table.param_value,
+threshold_table.param_type,
+threshold_table.arsalarm,
+threshold_table.arswarn,
+threshold_table.arsinfo,
+threshold_table.msgtxtalarm,
+threshold_table.msgtxtwarn,
+threshold_table.msgtxtinfo,
+threshold_table.alertsytem,
+threshold_table.customid1,
+threshold_table.customid2,
+threshold_table.blackout,
+threshold_table.date_entered,
+threshold_table.date_sent,
+threshold_table.emailalarm,
+threshold_table.emailwarn,
+threshold_table.emailinfo,
+threshold_table.last_updated
+
+FROM
+agents,
+threshold_table
+WHERE
+agents.hostname = threshold_table.hostname
+AND agents.port = threshold_table.port_number
+GROUP BY
+agents.id,
+threshold_table.app_class,
+threshold_table.instance,
+threshold_table.parameter;
+
+-- -----------------------------------------------------------
+-- -----------      load km data into table       ------------
+-- -----------------------------------------------------------
+
+
+-- ---- Delete data first ------
+
+drop table if exists ftlog;
+create table ftlog (id int) as
+select  a.id
+from
+    agents a, km_version_table c
+    where   a.hostname = c.hostname
+    AND     a.port = c.port_number
+    group by a.id;
+
+DELETE from loaded_kms where agentid IN (select id from ftlog);
+
+
+INSERT INTO loaded_kms (
+agentid,
+km,
+km_version,
+static,
+consoles,
+date_entered,
+date_gathered)
+SELECT
+agents.id,
+km_version_table.km_name,
+km_version_table.km_version,
+km_version_table.km_static,
+km_version_table.km_console,
+km_version_table.date_entered,
+km_version_table.date_sent
+FROM
+agents,
+km_version_table
+WHERE
+agents.hostname = km_version_table.hostname
+AND agents.port = km_version_table.port_number
+GROUP BY
+agents.id,
+km_version_table.km_name;
+
+-- -----------------------------------------------------------
+-- ----------- load config data into table        ------------
+-- -----------------------------------------------------------
+
+-- ---- Delete data first ------
+
+drop table if exists ftlog;
+create table ftlog (id int) as
+select  a.id
+from
+    agents a, config_table c
+    where   a.hostname = c.hostname
+    AND     a.port = c.port_number
+    group by a.id;
+
+DELETE from actual_config where agentid IN (select id from ftlog);
+
+
+
+INSERT INTO actual_config (
+agentid,
+variable,
+value,
+date_entered,
+date_gathered)
+SELECT
+agents.id,
+config_table.config_variable,
+config_table.config_value,
+config_table.date_entered,
+config_table.date_sent
+FROM
+agents,
+config_table
+WHERE
+agents.hostname = config_table.hostname
+AND agents.port = config_table.port_number
+GROUP BY
+agents.id,
+config_table.config_variable,
+config_table.config_value;
+
+-- -----------------------------------------------------------
+-- ----------- update ip address changes from CSV ----------
+-- -----------------------------------------------------------
+
+drop table if exists ipadds;
+
+create temporary table ipadds(agentid int,ipadd varchar (15), index(ipadd)) as
+select agents.id agentid,ip_address ipadd from agents,threshold_table
+where threshold_table.hostname = agents.hostname
+and port = port_number
+and (ip_address != ipaddress
+or ipaddress is null)
+group by agents.id;
+
+update agents,ipadds
+set agents.ipaddress = ipadds.ipadd
+where agents.id = ipadds.agentid
+and (ipaddress != ipadd
+or ipaddress is null);
+
+drop table if exists ipadds;Ç™drop table if exists og;
+drop table if exists cg;
+drop table if exists ng;
+
+
+create temporary table og (server_group text) as
+select server_group from server_groups;
+
+create temporary table cg (group_name varchar (200)) as
+select group_name from group_table;
+
+create temporary table ng (newgroup text) as
+select cg.group_name newgroup
+from cg
+left outer join og
+on cg.group_name = og.server_group
+where og.server_group is null;
+
+
+insert into server_groups (server_group)
+select newgroup from ng
+group by newgroup;
+
+drop table if exists og;
+drop table if exists cg;
+drop table if exists ng;
+
+-------------------------------------------------------------
+------------- remove deleted server_groups from PCM ---------
+-------------------------------------------------------------
+drop table if exists og;
+drop table if exists cg;
+drop table if exists rg;
+
+
+create temporary table og (id int,server_group text) as
+select id,server_group from server_groups;
+
+create temporary table cg (group_name varchar (200)) as
+select group_name from group_table;
+
+create temporary table rg (groupid int) as
+select og.id groupid
+from og
+left outer join cg
+on cg.group_name = og.server_group
+where cg.group_name is null;
+
+delete from server_groups
+where id in (select groupid from rg);
+
+delete from rights
+where groupid in (select groupid from rg);
+
+drop table if exists og;
+drop table if exists cg;
+drop table if exists rg;
+drop table if exists group_parents;
+
+CREATE TEMPORARY TABLE group_parents(
+    groupid int,
+    parentid int
+    );
+INSERT INTO group_parents
+SELECT
+    groups.id,parents.id
+FROM
+    server_groups groups,
+    group_table b,
+    server_groups parents
+WHERE
+    b.group_name = groups.server_group
+AND b.parent = parents.server_group
+GROUP BY groups.id;
+
+
+UPDATE
+    server_groups,
+    group_parents
+SET     server_groups.pid   = group_parents.parentid
+WHERE   server_groups.id    = group_parents.groupid;
+
+drop table if exists group_parents;ÌËdrop table if exists ags;
+drop table if exists agt;
+drop table if exists newhosts;
+drop table if exists newhostsdetail;
+
+create temporary table ags (hostname varchar(100),port int) as
+select hostname,port from agents
+group by hostname,port;
+
+create temporary table agt (hostname varchar (100),port int) as
+select hostname,port_number port from agent_table
+group by hostname, port;
+
+create temporary table newhosts (hostname varchar (100),port int) as
+select agt.hostname,agt.port
+from agt
+left outer join ags
+on (ags.hostname = agt.hostname and ags.port = agt.port)
+where ags.hostname is null;
+
+create temporary table newhostsdetail as
+select host_display,port_number,parents,agent_table.hostname,protocol,date_entered
+from agent_table,newhosts
+where agent_table.hostname = newhosts.hostname
+and agent_table.port_number = newhosts.port
+group by agent_table.hostname,port_number;
+
+INSERT INTO agents (
+hostname,
+display_name,
+port,
+protocol,
+source,
+status,
+date_entered)
+SELECT
+newhostsdetail.hostname,
+newhostsdetail.host_display,
+newhostsdetail.port_number,
+newhostsdetail.protocol,
+'PCM',
+'ACTIVE',
+now()
+FROM
+newhostsdetail
+GROUP BY
+newhostsdetail.host_display,
+newhostsdetail.hostname,
+newhostsdetail.port_number;
+
+drop table if exists ags;
+drop table if exists agt;
+drop table if exists newhosts;
+drop table if exists newhostsdetail;
+
+drop table if exists disp_names;
+
+create temporary table disp_names(agentid int,disp_name varchar (50),
+index(disp_name)) as
+select agents.id agentid,host_display disp_name from agent_table,agents
+where agent_table.hostname = agents.hostname
+and port = port_number
+and host_display != display_name
+group by agent_table.hostname,port_number;
+
+update agents,disp_names
+set agents.display_name = disp_names.disp_name
+where agents.id = disp_names.agentid
+and disp_name != display_name;
+
+drop table if exists disp_names;
+
+drop table if exists ags;
+drop table if exists agt;
+drop table if exists removedhosts;
+
+create temporary table ags (agentid int,hostname varchar(100),port int) as
+select id agentid,hostname,port from agents
+group by hostname,port;
+
+create temporary table agt (hostname varchar (100),port int) as
+select hostname,port_number port from agent_table
+group by hostname, port;
+
+create temporary table removedhosts (agentid int) as
+select ags.agentid agentid
+from ags
+left outer join agt
+on (ags.hostname = agt.hostname and ags.port = agt.port)
+where agt.hostname is null;
+
+update agents,removedhosts
+set agents.status = 'INACTIVE'
+where agents.id = removedhosts.agentid;
+
+update agents,agt
+set agents.status = 'ACTIVE'
+where agents.hostname = agt.hostname;
+
+drop table if exists ags;
+drop table if exists agt;
+drop table if exists removedhosts;
+
+-------------------------------------------------------------
+---------- update discovered agents that are now in PCM -----
+-------------------------------------------------------------
+
+drop table if exists activate;
+
+create temporary table activate(agentid int primary key) as
+select agents.id agentid from agent_table,agents
+where agent_table.hostname = agents.hostname
+and port = port_number
+and (status != 'ACTIVE'
+or status is null)
+group by agentid;
+
+update agents,activate
+set agents.status = 'ACTIVE'
+where agents.id = activate.agentid;
+
+drop table if exists activate;Ã~------------------------------------------------
+--  Create Agent -> Server_Group relationships -
+------------------------------------------------
+
+DROP TABLE IF EXISTS agent_groups;
+CREATE TABLE agent_groups (
+    id int(4) NOT NULL auto_increment,
+    agentid int(4) NOT NULL,
+    groupid int(4) NOT NULL,
+    PRIMARY KEY ( id )
+--    FOREIGN KEY ( agentid ) REFERENCES agents ( id ),
+--    FOREIGN KEY ( groupid ) REFERENCES server_groups ( id )
+);
+
+DROP TABLE IF EXISTS atab;
+
+CREATE TEMPORARY TABLE atab (
+agentid int(4),
+parent text) as
+SELECT
+agents.id agentid,
+parents parent
+FROM
+agents,
+agent_table b
+WHERE
+agents.hostname = b.hostname
+AND agents.port = b.port_number
+GROUP BY
+agents.id,parents;
+
+
+
+INSERT INTO agent_groups (
+agentid,
+groupid)
+SELECT
+agentid,
+server_groups.id
+FROM
+server_groups,
+atab
+WHERE
+atab.parent = server_groups.server_group
+GROUP BY
+agentid,
+server_groups.id;Ç!------------------------------------------------------
+-- Migrate RULESETS_TABLE
+--
+--  Here, we've broken the rulesets table into two
+--  pieces:  rulesets and rules
+--
+--  After creating the rulesets table, we'll have to
+--  update it with the parent relationships...
+--
+--  This is done by selecting the unique rulesets
+--  into a temp table (rstab), then processing the temp table
+--  with a join against two copies of another table (rp)
+------------------------------------------------------
+
+DROP TABLE IF EXISTS rulesets;
+
+CREATE TABLE rulesets (
+    id int(4) NOT NULL auto_increment,
+    pid int(4),
+    ruleset text NOT NULL,
+    PRIMARY KEY ( ID )
+);
+
+INSERT INTO rulesets (
+ruleset)
+SELECT
+rulesets_table.rulesetname
+FROM
+rulesets_table
+GROUP BY rulesetname;
+
+DROP TABLE IF EXISTS rstab;
+
+CREATE TEMPORARY TABLE rstab (
+name text,
+parent text) AS
+SELECT
+rulesetname,
+parent
+FROM
+rulesets_table
+GROUP BY rulesetname;
+
+drop table if exists rp;
+
+CREATE TEMPORARY TABLE rp(
+rulesetid int,
+parentid int
+);
+INSERT INTO rp
+SELECT
+children.id rulesetid,
+parents.id parentid
+FROM
+rulesets children,
+rstab b,
+rulesets parents
+WHERE
+children.ruleset = b.rulesetname
+AND b.parent = parents.ruleset
+GROUP BY children.id;
+
+UPDATE rulesets,
+rp
+SET rulesets.pid = rp.parentid
+WHERE rulesets.id = rp.rulesetid;
+
+DROP TABLE IF EXISTS rp;
+DROP TABLE IF EXISTS rstab;
+
+DELETE from rules where id not in (select ruleid from request_rules);
+
+INSERT INTO rules (
+    rulesetid,
+    variable,
+    operation,
+    value,
+    date_entered)
+SELECT
+    rulesets.id,
+    rulesets_table.config_variable,
+    rulesets_table.pconfig_action,
+    rulesets_table.config_value,
+    rulesets_table.date_entered
+FROM
+    rulesets,
+    rulesets_table
+WHERE
+    rulesets.ruleset = rulesets_table.rulesetname
+AND rulesets_table.config_variable is not nullÂ,DROP TABLE IF EXISTS ruleset_groups;
+
+CREATE TABLE ruleset_groups (
+    id int(4) NOT NULL auto_increment,
+    rulesetid int(4) NOT NULL,
+    groupid int(4) NOT NULL,
+    position int (2) NOT NULL,
+    PRIMARY KEY ( id )
+);
+
+INSERT INTO ruleset_groups (
+rulesetid,
+groupid,
+position)
+SELECT
+rulesets.id,
+server_groups.id,
+group_table.position
+FROM
+rulesets,
+server_groups,
+group_table
+WHERE
+server_groups.server_group = group_table.group_name
+AND group_table.ruleset_to_apply = rulesets.ruleset
+GROUP BY rulesets.id,
+server_groups.id,
+group_table.position;¡@¢ 
+¡3§remote/§remote\À!process_files(): Processing file ¶process_files(): file ªNot Found ½process_files(): Moving file ´ to the old folder: ¡.£mv ¡ ¥move §__sep__¤.csvÀ!process_files(): Processing Host © on port ¯THRESHOLD_TABLEÀ>process_files(): Number of lines to enter for threshold data: ° THRESHOLD LINE
+°KM_VERSION_TABLEÀ?process_files(): Number of lines to enter for KM Version data: ± KM VERSION LINE
+À;process_files(): Number of lines to enter for config data: ­ CONFIG LINE
+¡À*process_files(): Clearing temporary tablesÀ*process_files(): Updating temporary tablesÀ%pam_process_config_coll(): Collector ¬ started on ¤/old¤\oldÀ/pam_process_config_coll(): Processing files in À4pam_process_config_coll(): Creating folder for port ¦mkdir ÀHpam_process_config_coll(): Creating folder to store old config for port §REPLACEªCollector ¶../ProcessedFile/valueÀ7pam_process_config_coll(): No files to process exiting µNo Files to process 
+ÀWpam_process_config_coll(): Updating the Thresholds, Actual_Config and Loaded_KMs tablesª Ended on ²../PCRunTime/value°../ProcessedFileª ended on §../nameÀ5process_agent_ini_file(): Processing agent file with ¡[¥port=©protocol=À1Agent.ini file error, default port is not definedÀ5Agent.ini file error, default protocol is not defined¢
+[¡]¹Something went wrong for ¬ Skipping it¤[] 
+§parent=¡,¥host=¤ROOT¶truncate AGENT_TABLE;
+«AGENT_TABLE®/rulesetFolder»Processing group file with ¥find § -printªdir /B /S ¥.cfg$¤.cfgªApplyOnNew¡=¢ ,¤ []
+¶truncate GROUP_TABLE;
+«GROUP_TABLE¤cfg~¡vªPCM/backup²PCM/PENDING_FOLDER©PCM/queue¨PCM/tlog³ChangeSpring/backup»ChangeSpring/PENDING_FOLDER²ChangeSpring/queue±ChangeSpring/tlog«PCM\\backup³PCM\\PENDING_FOLDERªPCM\\queue©PCM\\tlog´ChangeSpring\\backup¼ChangeSpring\\PENDING_FOLDER³ChangeSpring\\queue²ChangeSpring\\tlog¤cfg$À9process_ruleset_folder(): Processing ruleset folder with ¥File · not found, Skipping it¢1-¢2-«__NEWLINE__­},__NEWLINE__£},
+¬}__NEWLINE__¢}
+¢
+ £{},¥__NEW¤LINE¢__¢3-¢\	À:process_ruleset_folder(): Processing ruleset Parents with £ 
+ ¹truncate RULESETS_TABLE;
+®RULESETS_TABLEÀ©select agents.id, server_groups.server_group from agents, agent_groups, server_groups where agents.id = agent_groups.agentid and agent_groups.groupid = server_groups.id;À+select id, server_group from server_groups;¤ 
+ 	¥ROOT
+¡$¡nªagent_treeË<DROP TABLE IF EXISTS agent_rules_tmp;
+
+-- This runs in 39 seconds
+CREATE TEMPORARY TABLE agent_rules_tmp (
+    agentid INT,
+    hostname TEXT,
+    port INT(2),
+    pos INT(3),
+    var TEXT BINARY,
+    op varchar(7),
+    val TEXT,
+    vardigest VARCHAR(32),
+    valdigest VARCHAR(32),
+    INDEX (agentid)
+) AS
+SELECT
+    a.id agentid,
+    a.hostname hostname,
+    a.port port,
+    rg.position pos,
+    ru.variable var,
+    ru.operation op,
+    ru.value val,
+    md5(ru.variable) vardigest,
+    md5(ru.value) valdigest
+FROM
+    agents a,
+    agent_tree ag,
+    server_groups sg,
+    ruleset_groups rg,
+    rulesets r,
+    rules ru
+WHERE
+    a.id = ag.agentid
+    AND ag.groupid = sg.id
+    AND sg.id = rg.groupid
+    AND rg.rulesetid = r.id
+    AND r.id = ru.rulesetid;
+--AND ru.operation = 'REPLACE'
+--GROUP BY agentid, vardigest
+--HAVING rg.position = max(rg.position);
+
+
+DROP TABLE IF EXISTS purgelist;
+
+-- This runs in 1 second
+CREATE TEMPORARY TABLE purgelist (
+    agentid INT(4),
+    vardigest VARCHAR(32),
+    INDEX (vardigest(32),agentid)
+    ) AS
+SELECT
+    agentid,
+    vardigest
+FROM agent_rules_tmp
+WHERE op IN ('DELETE','MERGE','APPEND');
+
+
+
+DROP TABLE IF EXISTS agent_rules;
+
+-- This runs in 27 seconds
+CREATE TABLE agent_rules (
+    agentid INT,
+    hostname TEXT,
+    port INT(2),
+    pos INT(3),
+    var TEXT BINARY,
+    val TEXT,
+    vardigest VARCHAR(32),
+    valdigest VARCHAR(32),
+    INDEX (agentid)
+) AS
+SELECT
+    a.agentid,
+    hostname,
+    port,
+    pos,
+    var,
+    val,
+    a.vardigest,
+    valdigest
+FROM agent_rules_tmp a
+    LEFT JOIN purgelist b USING (agentid,vardigest)
+WHERE
+    b.agentid IS NULL
+GROUP BY agentid, vardigest
+HAVING pos = max(pos);
+
+
+DROP TABLE IF EXISTS hostconfig;
+
+--  This runs in 1.00 seconds
+CREATE TEMPORARY TABLE hostconfig (
+    agentid INT,
+    variable TEXT BINARY,
+    value TEXT,
+    vardigest VARCHAR(32),
+    valdigest VARCHAR(32),
+    INDEX (agentid),
+    INDEX (vardigest),
+    INDEX (valdigest)
+)
+AS
+SELECT
+    agentid,
+    variable,
+    value,
+    md5(variable) vardigest,
+    md5(value) valdigest
+FROM
+    agents,
+    actual_config
+WHERE
+    agents.id = actual_config.agentid;
+
+
+
+DROP TABLE IF EXISTS goodagents;
+
+-- This runs in 0.21 seconds
+CREATE TABLE goodagents (agentid INT PRIMARY KEY)
+AS
+SELECT DISTINCT agentid
+FROM actual_config;
+
+DROP TABLE IF EXISTS ooc;
+
+-- This runs in about 51 seconds for 51 agents on a 1.5Ghz processor
+CREATE TABLE ooc (
+    agentid INT,
+    hostname VARCHAR (100),
+    port INT(2),
+    variable TEXT BINARY,
+    rulevalue TEXT,
+    actualvalue TEXT,
+    INDEX (agentid)
+) AS
+SELECT
+    a.agentid,
+    a.hostname,
+    a.port,
+    a.var variable,
+    a.val rulevalue,
+    h.value actualvalue
+FROM
+    agent_rules a LEFT JOIN hostconfig h
+    using (agentid,vardigest)
+WHERE
+        h.vardigest IS NULL
+OR      h.valdigest > a.valdigest
+OR      h.valdigest < a.valdigest;À:update_pcm_tables_coll(): Update PCM collector started at ª/iniFolderÀ7Ini folder not set, please update pconfig variable /KM/¶PCM files not migratedÀ9Ini folder not Found, please update pconfig variable /KM/«\agents.iniÀ=agent.ini file not Found, please update pconfig variable /KM/«\groups.iniÀ>groups.ini file not Found, please update pconfig variable /KM/À;Ruleset folder not set, please update pconfig variable /KM/À=Ruleset folder not Found, please update pconfig variable /KM/À3update_pcm_tables_coll(): Updating the Agents tableÀ:update_pcm_tables_coll(): Updating the server_groups tableÀ9update_pcm_tables_coll(): Updating the agent_groups table³../iniRunTime/value«dir /S /B "À;update_pcm_tables_coll(): Updating Rulesets and rules tableÀ<update_pcm_tables_coll(): Updating the Rulesets_groups table·../rulesetRunTime/valueÀ4update_pcm_tables_coll(): Creating compliance tables³../oocRunTime/valueÀ6update_pcm_tables_coll(): Update PCM command Ended at ª^^PATROL KM¦^^[0-9]«^^PATROL forª^^Note: See³^^Guide for platform½^^Microsoft SQL Server .* only¦
+
+
+
+
+
+¥
+
+
+
+
+¤
+
+
+
+¢
+
+¯MSSQL_SERVER_DB¨Database·MSSQL_SERVER_PROC_CACHE¯Procedure Cacheª_CONTAINER­MSSQL_SERVER_§ORACLE_§ORANET_¦Object§Objects¼MSEXCH_Lotus_Notes_Connector¼MSEXCH_Lotus_Notes Connector¯MSEXCH_Web_Mail®MSEXCHWeb_Mail²MSEXCH_Chat_Server³MSEXCH_Chat_Servers­ALL COMPUTERS®UserDefCounter¯UserDefCounter1´UserDefined Counters©BytesPSec«BytesPerSec©OpersPSec«OpersPerSec² Application Class¡'£CON¡5¡:©Collector¢NAÀ@update_parameter_table_cmd(): Update parameter table started at:­lib/knowledge±/paramDescription­lib\knowledge±\paramDescription§dir /B ¥file ° missing exiting¤.kmlÀ=update_parameter_table_cmd(): Number of KML files to process À³select categoryid, application_class, parameter, 'end'
+    from parameter_categories, parameter_descriptions
+    where parameter_categories.parameterid = parameter_descriptions.idÀ)update_parameter_table_cmd(): Processing ¡{¡}¿Number of KM files to process: À1insert IGNORE into categories (category) value ('¤');
+À,select id from categories where category = '¢';£.km¬PARAM_TYPE =¡4µPARAM_TYPE = CONSUMER¶PARAM_TYPE = COLLECTOR£COL£STD¤	endÀoinsert into parameter_descriptions (application_class, parameter, param_type, description, collector) values ('¤', 'Àjinsert into parameter_categories (parameterid, categoryid) select parameter_descriptions.id parameterid, 'ÀD' categoryid from parameter_descriptions where application_class = '³' and parameter = '£';
+À-Update parameter description table Ended at: ¢12±Database Server: ³Database Instance: ÀKdefine_database_connection_cmd(): Database Information entered successfully¬PCM Settings¬INI Folder: °Ruleset Folder: ÀURuleset Folder can't be blank, please re-run the command and enter the right settingsÀQini Folder can't be blank, please re-run the command and enter the right settings¯Ruleset Folder ÀB not found, please re-run the command and enter the right settings«INI Folder À!PCM Settings entered successfully£OFF±/shouldPushConfigÀ*: Push configuration to agents turned OFF
+¢ONÀ): Push configuration to agents turned ON
+À'push config toggled to invalid state: >À*<
+push config will be disabled by default.À\SELECT change_targets.status from change_targets,change_requests 
+where change_requests.id='À3' 
+and change_requests.id=change_targets.RequestID;¡8¡6¡7À#update change_requests set status='À ',Date_Modified=now() where id='À&Updating change_requests status with 
+¡-«pconfig -p § -host ª -timeout ³Running OS command ¹result of the command is ¤NULL¹Failed to send config to µToo many retries for ¼ Setting the status to fail À&Maximum number of retry not reach yet À* so far, Setting the status to Retry mode ´Apply succeeded for ¿ Setting the status to SUCCESS À"update change_targets set status='®', retry_num='¹../ApplyNumRequests/value³/simultaneousAgents¢10·simultaneousAgents is  ¯/pconfigtimeOut³pconfigtimeOut is  ­/allowedRetry±allowedRetry is  ­pconfigFolderÀ$pconfig file missing for request ID º Contact Advantis support
+¹ Contact Advantis support¡^^«Request Id ¥ has ­ agents in it§2,3,4,5¥Port À#Updating changetarget status with 
+·../ApplyNumAgents/value¹../ApplyAgentFailed/valueº../ApplyAgentSuccess/valueÁqselect change_requests.id,agents.hostname,change_targets.status,change_targets.retry_num,change_targets.id,agents.port 
+from change_requests,change_targets,agents
+where (change_requests.status=4 or change_requests.status=8) and 
+(change_targets.status=0 or change_targets.status=3) and 
+change_requests.id=change_targets.requestid and 
+change_targets.agentid=agents.id;·Creating pconfig file  ±Creating folder  ­PATROL_CONFIG¢4-¦" = { ¤ = "¤" },Àşselect change_requests.id,rules.variable,rules.operation,rules.value 
+from change_requests,request_rules,rules 
+where change_requests.id=request_rules.requestid 
+and request_rules.ruleid=rules.id 
+and change_requests.status=4
+order by change_requests.id;À#pam_apply_config_coll(): Collector ­varibale /KM/À*/shouldPushConfig is not set to 1, exitingÀ:To enable that functionality, please use the menu commandsÀ5Rules were found, we need to create the pconfig files±Pushing to Agents±No agents to pushµ../ApplyRunTime/value·../ApplyDataError/value±../ApplyDataError©-1.000000¹h=300
+w=400
+o=Ok
+c=Cancel¢		ª	\N	\N	\N
+ÀDupdate change_requests set status='8',Date_Modified=now() where id='ÀDupdate change_requests set status='5',Date_Modified=now() where id='ÀDupdate change_requests set status='6',Date_Modified=now() where id='À1update change_targets set status='1', retry_num='À"«run_sql_cmdÀM¡À5¡© ¡¢£¤¥¦§¨©­set_user_nameÀMÀ7À† ¥±²³´µ¯wait_before_runÀMÀˆÀŸ ¤À À!À"À#¬add_to_tableÀMÀ¡Àò¢ªÀ'À(À)À*À+À,À-À.À/À0À1À2«clear_tableÀMÀôÁ¡£À4À5À6À7¯get_total_filesÀMÁÁ¡¥À9À:À;À<À=À>À(update_thresholds_loadedKms_ActualConfigÀMÁÁ  ¡ÀAºupdate_server_groups_tableÀMÁ"Á% ¡ÀB³update_agents_tableÀMÁ'Á* ¡ÀC¸update_agent_group_tableÀMÁ,Á/ ¡ÀD»update_rulesets_rules_tableÀMÁ1Á4 ¡ÀE»update_ruleset_groups_tableÀMÁ6Á9 ¡ÀF­process_filesÀMÁ;Áß¢±ÀGÀHÀIÀJÀKÀLÀMÀNÀOÀPÀQÀRÀSÀTÀUÀVÀWÀXÀY·pam_process_config_collÄAÁáÂg ¬ÀdÀeÀfÀgÀhÀiÀjÀkÀlÀmÀnÀo¶process_agent_ini_fileÀMÂiÃ&¡­ÀvÀwÀxÀyÀzÀ{À|À}À~ÀÀ€ÀÀ‚Àƒ¯order_cfg_filesÀMÃ(Ã+¡ À¶process_group_ini_fileÀMÃ-ÄI¡®ÀÀÀ‘À’À“À”À•À–À—À˜À™ÀšÀ›ÀœÀ¶process_ruleset_folderÀMÄKÅZ¡±À­À®À¯À°À±À²À³À´ÀµÀ¶À·À¸À¹ÀºÀ»À¼À½À¾°create_ooc_tableÀMÅ\Å´ ¥ÀÍÀÎÀÏÀĞÀÑ¶update_pcm_tables_collÄAÅ¶Æy ­ÀáÀâÀãÀäÀåÀæÀçÀèÀéÀêÀëÀìÀí·format_description_fileÀMÆ{Æµ¡¡ÀòÀó¯get_descriptionÀMÆ·Çe¤¨ÀôÀõÀöÀ÷ÀøÀùÀúÀûÀüÀıÀşÀÿºupdate_parameter_table_cmdÄAÇgÈ@ ´ÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁÁ ¾define_database_connection_cmdÄAÈBÈ} ¤Á=Á>Á?Á@·define_pcm_settings_cmdÄAÈÈÊ ¤ÁGÁHÁIÁJ¶enable_push_config_cmdÄAÈÌÈë¡¡ÁPÁQ½update_change_requests_statusÀMÈíÉ0¡©ÁVÁWÁXÁYÁZÁ[Á\Á]Á^^Á_ºpush_request_to_agent_portÀMÉ2ÉŸ£¯ÁiÁjÁkÁlÁmÁnÁoÁpÁqÁrÁsÁtÁuÁvÁwÁxÁyÁz®push_to_agentsÀMÉ¡ÊH¡«ÁˆÁ‰ÁŠÁ‹ÁŒÁÁÁÁÁ‘Á’Á“³get_agent_to_deployÀMÊJÊM ¢Á¡Á¢²write_pconfig_fileÀMÊOÊd¤¤Á£Á¤Á¥Á¦Á§Á¨Á©Áª³create_pconfig_fileÀMÊfÊ«¡®Á¬Á­Á®Á¯Á°Á±Á²Á³Á´ÁµÁ¶Á·Á¸Á¹Áº³get_rules_to_deployÀMÊ­Ê° ¢ÁÁÁÂµpam_apply_config_collÄA!Ê²Ë ¨ÁÃÁÄÁÅÁÆÁÇÁÈÁÉÁÊ¥¡¢¡ ¡£¡¥¡¡4Vx
